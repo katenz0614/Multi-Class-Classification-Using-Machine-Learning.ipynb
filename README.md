@@ -1,2 +1,3 @@
 # kate0614
 early Bird
+I use Python and Jupyter Notebook to develop our system, relying on Scikit-Learn for the machine learning components.In this project, I am going to discuss automated multi-class classification on the mixed data type. Think about text classification. When we have a bunch of text and a target label. Based on the incoming text I create a model to learn on the target label and finally predict on the target label. I typically perform all our NLP steps like tokenization, etc to classify our target values. But if you take real-world data sometimes along with the text data you will also have some continuous variables or categorical variables.
