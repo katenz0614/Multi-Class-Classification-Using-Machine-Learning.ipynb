@@ -1,0 +1,1058 @@
+﻿Type,Area,Detail,Date,Time Lost,cause
+External,Other,Offline Downtime: 1 x PCB (DX) Boot Loader could not be found.,11-Jan-17,0.25,Programming 
+Internal,Assembly,Online Downtime; 1 x DX1500 HX Nut loose on manifold - reowrked,11-Jan-17,0.5,Pemserts
+Internal,NC Cell,Online Downtime: 1 x FS730 RH Side folded incorrectly - replaced.,17-Jan-17,0.75,others
+Internal,NC Cell,Online Downtime: 1 x DX Glass Insert came loose - reworked,17-Jan-17,0.5,Electrode
+Internal,Assembly,Online Downtime; 1 x AF Spark Electrode cracked ceramic causing E2 error - replaced.,17-Jan-17,0.5,Electrode
+Internal,Not supplied on time,Online downtime: Ran out on line AF960 P/Coated Glass baffles 101501,19-Jan-17,0.5,others
+Internal,NC Cell,Online Downtime: Issue with oily fingerprints on the Ef sheetmetal - extra time spent cleaning off.,19-Jan-17,0.5,others
+Internal,NC Cell,Offline Downtime: 100933 DX Exhaust collector bracket - ran out,23-Jan-17,1,NA
+Internal,Manufacturing,Offline Downtime: Holes in welds on 7 x AF Manifolds - reworked.,24-Jan-17,0.5,Welding
+External,Other,Online downtime: Terminal not crimped correctly on DL power cord - reworked.,25-Jan-17,0.25,Wiring
+Internal,NC Cell,Online downtime: Ran out of 100946 DX HX Clamps,26-Jan-17,1,others
+External,Other,Online downtime; Faulty Pressure switch on Dxproduct - replaced,26-Jan-17,0.5,Pressure switch
+Internal,NC Cell,Online downtime: 101386 Dormont hose fitting folded but no good - fitting not locating correctly.,27-Jan-17,2,folding
+Unplanned,Other,Offline Downtime: DF Trays no holes for cable ties - reworking.,27-Jan-17,0.25,Electric Tray
+Internal,NC Cell,Online Downtime: DX Hose Bracket not supplied - stopped line.,30-Jan-17,16,NA
+External,Other,Online Downtime: 2 x Regulators failed leak test - replaced.,30-Jan-17,0.5,Regulator
+External,Other,Offline downtime: Issue with Dx Tray  harness - terminal falling out - Stock checked and reworked.,30-Jan-17,0.5,Wiring
+Unplanned,Other,Online Downtime: Issue with pressure switch setting in config file on DF700 fires.,31-Jan-17,28,Pressure switch
+Unplanned,Other,Online Downtime: Issue with pressure switch settings in config file on DF700 fires,1-Feb-17,56,Pressure switch
+External,Other,Online downtime: Ran out of 610651 Cross Braces,2-Feb-17,12,NA
+External,Other,Offline downtime: Faulty DF Fenwal - replaced,2-Feb-17,0.25,Electric Tray
+Internal,NC Cell,Online downtime: DX Firebox had HX studs misaligned - reworked,9-Feb-17,2,Firebox
+Internal,NC Cell,Online downtime; Ran out of 100933 DX RH Exhaust collector support.,10-Feb-17,4,NA
+Unplanned,Other,"Online dowmtime; DF960 build - Issues with lid, Back Panel and HX Changer tubing.",7-Feb-17,8,NA
+Internal,NC Cell,Online Downtime: 101226 DX pressure switch bracket ran out of stock could not build fires.,13-Feb-17,4,NA
+Internal,NC Cell,Online Downtime; 100474 ST firebox bracket no left-hand parts all Right- Hand parts in trolley,13-Feb-17,1,Firebox
+Internal,NC Cell,offline downtime: ST900 front grills not folded correctly x 4,13-Feb-17,8,folding
+Internal,Assembly,Online Downtime; E3  HX Tie wire touching TCO causing PCB to blow up - reworked,15-Feb-17,1,Wiring
+Internal,NC Cell,Online Downtime: 101901 Exhaust bracket not folded.,15-Feb-17,1,folding
+Internal,Manufacturing,Online Downtime: DF960 - Weld splatter in glass retainer hole - reworked,16-Feb-17,0.5,Welding
+Internal,Engineering,Offline Downtime: 2 x returned PCB's fronm JS failed in tester - no Boot Loader.,16-Feb-17,0.5,Programming 
+Electrical,Electrical,Online Downtime: Adaptors required to be made for electricl testing on AF run,21-Feb-17,0.5,NA
+Internal,NC Cell,Online downtime; Problem fitting terminal for 420133 Spark lead on DL into cut out on firebox.,21-Feb-17,0.5,Wiring
+Internal,NC Cell,Online downtime; EF5000 S/S parts had fingerprints all over the sheetmetal requiring extra time to clean off.,21-Feb-17,0.5,others
+Internal,Assembly,Online Downtime: Spark elevtrode not connected to fenal on AF700 - reworked.,22-Feb-17,0.25,Electrode
+Other,Other,Online Downtime: Delay in Burn Off due to fires left there from previous day due to high temperatures.,22-Feb-17,0.5,NA
+Planned,Trial,Online Downtime: R&D using packing equipment to sort out DS1400 packaging.,22-Feb-17,0.5,NA
+Planned,Trial,Online Downtime: R&D using packing equipment to sort out DS1400 packaging.,23-Feb-17,0.5,NA
+Internal,Assembly,Online Downtime: AF960 fireboxes failing leak test - retighten screws (drill not good),27-Feb-17,1,Firebox
+Internal,NC Cell,Online Downtime: No DL850 Bases or Back wraps ready for production run.,27-Feb-17,1.5,NA
+Internal,NC Cell,Online downtime: Nutserts on DX1000 Firebox end on wrong way - reworked.,27-Feb-17,1,Pemserts
+Internal,NC Cell,Offline downtime: 1 x DL Exhaust manifold folded inside - out.,27-Feb-17,0.25,folding
+Internal,Supplied short,Online Downtime: 1 x AF960 lid short for production run.,27-Feb-17,0.5,NA
+External,Not supplied on time,Online Downtime: DL100 fire short 1 x packing lid,27-Feb-17,6,NA
+External,Other,Offline Downtime: 3 x DL Restrictor bodies had machined hole in wrong place - rejected.,27-Feb-17,0.5,Firebox
+External,Other,Online Downtime: Loose conector on DL Valve harness failed electrical test - reworked.,28-Feb-17,0.25,Wiring
+Electrical,Electrical,Online Downtime: Broken wire on DL Electrical tester.,28-Feb-17,0.5,Wiring
+Internal,NC Cell,Offline Downtime: 4 x DL850 Chassis Bases had there bridgeforms squashed.,28-Feb-17,0.25,Chassis
+Unplanned,Other,Offline Downtime: Havinfg to file out the DF Burner Trays elbow holes - to tight,28-Feb-17,0.5,Burnner
+Electrical,Electrical,Offline Downtime: Paint booth heater not working - extra time required to dry paint.,1-Mar-17,8,NA
+Internal,NC Cell,Offline Downtime: DF700 TCO Brackets not pemserted - reworked.,1-Mar-17,0.25,Pemserts
+Internal,Not supplied on time,Online Downtime: DX1500 F/Box Back Panels and Infills not painted in time.,1-Mar-17,2,NA
+External,Not supplied on time,Online downtime: Ran out of DL1100 Packing lids.,1-Mar-17,1.5,NA
+Unplanned,Other,Offline downtime: BOM issues with Pressure switch hose connector - not on DF BOM's,1-Mar-17,0.5,NA
+Internal,Supplied short,Online Downtime: 2 x DX Exhaust collector lids short for run,2-Mar-17,1,NA
+External,Other,Offline downtime: Ran out of Pressure Hose Connectors - BOM issues,2-Mar-17,4,NA
+Mechanical,Mechanical,Online Downtime; Staple Gun at Packing jammed - fixed.,6-Mar-17,0.25,NA
+Internal,Manufacturing,Online Downtime; Spigot on DF700 not spot welded on correctly - reworked.,6-Mar-17,0.5,Welding
+Internal,Assembly,Online downtime : DF700 missing chassis spacer bracket - reworked.,6-Mar-17,0.25,Chassis
+External,Other,Online downtime; Fire would not go - Tray retested PCB replaced,6-Mar-17,1,PCB
+Internal,Assembly,Online downtime; Wrong jets fitted to DF burner tray - reworked.,6-Mar-17,0.5,Pilot
+Internal,NC Cell,Online downtime; 1 x screw jammed in DF burner Tray pemsert - replaced,6-Mar-17,0.5,Fastener
+Unplanned,Other,Online downtime; No chassis fixing bracket holes at rear of Df700 chassis back panel - okayed by Kev.,6-Mar-17,0.5,Chassis
+Internal,NC Cell,"Online downtime; Ds1400 first day run - Missing parts, Rear panel not folded correctly.",6-Mar-17,3,NA
+Planned,Other,Online Downtime: Checking DS1400 BOM,6-Mar-17,4,NA
+Internal,NC Cell,Offline Downtime; Rags on DL Pilot parts - reworked.,7-Mar-17,0.5,Pilot
+Unplanned,Other,Online Downtime; Waiting on DS1400 Burn off extraction system to be completed.,7-Mar-17,3,NA
+External,Other,Online Downtime; 2 x DF700 fires issues with E2 errors - replaced spak electrodes,8-Mar-17,1.25,Electrode
+Other,Other,Online Downtime; E3 error on fire - cleared error and fire went fine.,8-Mar-17,0.25,Normal
+Internal,Assembly,Online Downtime; 2 x DF700 fires had the PCB burn out - nothing found but will look at ensuring TCO wiring is not under any tension.,8-Mar-17,1.5,PCB
+Internal,Assembly,Online Downtime; E7 error - pressure switch hose on the wrong way and not attached to chassis - reworked,8-Mar-17,0.5,Pressure switch
+External,Other,"Offline Downtime; 3 x Remotes rejected. 1 x Poor signal range, 2 x LCD screens not dispalying correctly.",9-Mar-17,0.25,Remote
+Internal,Assembly,Online Downtime; Test point left open on DF tray.,9-Mar-17,0.25,Gas Tray
+Internal,Engineering,Online Downtime; DF tray missing jets - reworked.,9-Mar-17,0.5,Pilot
+Internal,NC Cell,Online Downtime: Ran out of 101386 Hose Brackets on DS1400 build,13-Mar-17,1,NA
+Internal,Manufacturing,Offline Downtime: 8 x DL Exhaust manifolds folded inside out - rejected.,13-Mar-17,0.5,folding
+Internal,Manufacturing,Online Downtime; 1 x AF700 firebox had DF700 base - reworked,13-Mar-17,0.5,Firebox
+External,Not supplied on time,Offline downtime; Ran out of 420178 harnesses,14-Mar-17,8,NA
+Internal,Assembly,Online Downtime: E7  issues with DS1400 build - operator learning,14-Mar-17,1,E7
+Planned,Other,Online Downtime; DF960 Back panels on line with extra hole - reworked,14-Mar-17,0.25,NA
+External,Not supplied on time,Online Downtime: Ran out of G2350 Tape for DS build.,15-Mar-17,1,NA
+Internal,NC Cell,Online Downtime; Ran out of 101950 DF chassis spacers,16-Mar-17,0.5,NA
+Internal,Assembly,Online Downtime: Packing having trouble removing screw from top of lids for packing DS1400 Product out - change of process.,16-Mar-17,0.5,Fastener
+External,Other,Online Downtime: DS Packing corners mixed up with DX packing corners - Product packed out no good different lengths - reworked.,16-Mar-17,0.5,NA
+Unplanned,Other,Offline downtime; Changing Install guides for DS product in packs and Red Shed.,16-Mar-17,1,NA
+Internal,NC Cell,Online Downtime: Problem with pemserts in DF960 firebox for Burner tray - not pemmed correctly coming loose.,16-Mar-17,4,Pemserts
+Internal,Assembly,Online downtime; E7 error in DF960 product - Electronic tray harness not plugged into PCB.  Due to run out of harnesses stock earlier in week,16-Mar-17,2,Wiring
+Internal,Assembly,Online Downtime: E2 error - tray harness not connected,17-Mar-17,0.5,Wiring
+Internal,Manufacturing,Online Downtime: No collars on AF700 Burners - reworked,21-Mar-17,0.25,Burnner
+Internal,NC Cell,Online Downtime: DS1400 Top Glass retainer not pemmed x 40,22-Mar-17,0.5,others
+Internal,Assembly,Online Downtime; Snapped 1 x HX Stud on DS1400 firebox - reworked,22-Mar-17,0.5,firebox
+Internal,DS Line,Online Downtime: DS1400 - E7 issues at Burn Off - result was faulty Power Flue fan at Burn Off.,22-Mar-17,4,E7
+External,Other,"Offline Downtime: 2 x PCB's faulty - 1 x fried, 1 x didn't function in tester.",22-Mar-17,0.5,PCB
+External,DF Line,Offline Downtime: Tennington valves with incorrect terminals.,22-Mar-17,0.5,Wiring
+Internal,Manufacturing,Online Downtime; Front grill on DL1100 firebox not riveted in correctly - reworked,22-Mar-17,0.25,firebox
+External,Farra Sheetmetal,Online Downtime: DL mainfolds folded inside out - rejected.,23-Mar-17,0.5,folding
+External,Other,Online Downtime: Ran out of 32mm staples for packing - stores labelled long staples incorrectly,23-Mar-17,1,NA
+Internal,Not supplied on time,Online Downtime: Ran out of DL Burners for line,23-Mar-17,1,NA
+Mechanical,Mechanical,Online downtime: Packing Staple gun jammed.,23-Mar-17,0.25,NA
+Internal,NC Cell,Online downtime: Top DL Glass retainers - ran out of stock,24-Mar-17,2,NA
+Internal,NC Cell,Online Downtime; Parts shortage for DS1400 line,27-Mar-17,6,NA
+Internal,NC Cell,Online downtime: Issue woth Parts supply and old / new parts on line,27-Mar-17,4,NA
+Internal,NC Cell,Online Downtime: Issue with Pilot shield on DF960 not to spec.,27-Mar-17,1,Pilot
+Internal,Manufacturing,Online Downtime: DS1400 firebox not painted under lid and base - reworked,28-Mar-17,0.5,Painting/Powder coating
+Internal,Assembly,Online Downtime; Packed DS1400 out with DX Corners - reworked. Parts mixed up when delivered to line.,28-Mar-17,0.5,Prepare
+Internal,NC Cell,Online Downtime; Parts not ready - pushed build out.,28-Mar-17,8,NA
+Internal,Assembly,Online Downtime: DF960 blown PCB - TCO touching wire tie on heat exchanger.,28-Mar-17,0.5,Wiring
+External,Other,Offline downtime; PCB failed inElectronics tester - pressure switch issue.,3-Apr-17,0.5,Pressure switch
+Internal,NC Cell,Online downtime: Clinching stud missing from DS Tray,3-Apr-17,0.25,Electric Tray
+Internal,NC Cell,Online Downtime: Waiting on ST900 parts due to parts folded incorrectly,4-Apr-17,1,folding
+Internal,NC Cell,Online downtime; 100477 ST900 part - holes not lasered correctly,4-Apr-17,0.5,laser
+External,DS Line,Online downtime;  x Regulator failed leak test on DS tray,4-Apr-17,0.25,Regulator
+Internal,NC Cell,Online downtime; Tapping out M4 pemserts on DS tile retainer,4-Apr-17,0.25,Glass
+Internal,Manufacturing,Online downtime: Welds on base of firebox not ground correctly on DS Fireboxes - reworked,4-Apr-17,0.5,Welding
+External,Mode Line,Online Downtime: Trueview glass not to spec,4-Apr-17,6,Glass
+Internal,NC Cell,Online downtime: DF960 chassis side panels folded - old revision had to get new ones folded.,5-Apr-17,2,folding
+Internal,Assembly,Online downtime; Aux terminal fell out of chassis end - reworked.,5-Apr-17,0.75,Wiring
+External,Other,Online Downtime: Trueview glass not to spec,5-Apr-17,1,Glass
+Internal,NC Cell,Online downtime; Tapping out M4 pemserts on DS trays and firebox,6-Apr-17,0.5,Pemserts
+Internal,NC Cell,"Offline downtime; 101980 x 2, 101400 x 1 - not to spec lasered holes missing",6-Apr-17,0.25,laser
+Internal,Not supplied on time,Offline Downtime: Chasing DF electronic trays,6-Apr-17,0.25,Electric Tray
+External,Other,Online Downtime: Dormont Hose failed leak test - replaced,10-Apr-17,0.5,Gas Tray
+Internal,Manufacturing,Online downtime: DS Burner Tube to long for fire - replaced.,10-Apr-17,0.25,Burnner
+External,Not supplied on time,Online downtime; Ran out of 610656 Plastic Packing Bags for DS product,10-Apr-17,1.5,NA
+Internal,Assembly,Online Downtime; Rivets mising in DS1400 chassis base - reworked,10-Apr-17,0.5,Chassis
+Internal,Manufacturing,Online downtime; Poor painting on DF lids - reworked.,10-Apr-17,0.25,Painting/Powder coating
+Internal,NC Cell,Online Downtime; Problems with Pemserts on angles and threads tight requiring tapping - DF Firebox,10-Apr-17,3,Pemserts
+Internal,NC Cell,Online Downtime; Continuing issues with pemserts on DS and DF products.,11-Apr-17,1,Pemserts
+External,Not supplied on time,Online downtime; Ran out of 610656 Plastic Packing Bags for DS product,11-Apr-17,8,NA
+Mechanical,Mechanical,Online Downtime: Problems with Power Flue Fans at Burn Off for DS products,11-Apr-17,1,NA
+Internal,Manufacturing,Online Downtime: DS Burner tubes to long - reworked by manufacturing,12-Apr-17,1,Burnner
+External,Other,Online downtime: DS1400 fire failed at Burn Off with E4 error - replaced PCB.,12-Apr-17,1,PCB
+Internal,Manufacturing,Online downtime; DF lids not painted correctly - reworked.,12-Apr-17,0.5,Painting/Powder coating
+Other,Other,Online Downtime: DS1400 with poor leak rate - no missing rivets or screws - leaking from back panel,13-Apr-17,1,NA
+Internal,Manufacturing,Online Downtime: DS1400 top gib trim had ragged edges and scratched - replaced,13-Apr-17,0.25,others
+Internal,Not supplied on time,Online Downtime; Waiting on DF parts to start line,18-Apr-17,16,NA
+Internal,Not supplied on time,Online Downtime: Waiting on DS Parts to start line.,18-Apr-17,30,NA
+External,Other,Online Downtime: E3 error tracked back to DS tray harness/connector issue,18-Apr-17,5,Wiring
+Internal,NC Cell,Online Downtime; 2 x DS Fan Brackets folded incorrectly,18-Apr-17,0.25,folding
+Internal,NC Cell,Online downtime; 1 x pemsert missing from DS Firebox - reworked,19-Apr-17,0.5,Firebox
+Internal,Not supplied on time,Online downtime: Waiting on DF960 firebox hatch,19-Apr-17,3,NA
+Unplanned,Other,Online downtime: 6 x DS1400 Side Gib Trims replaced due to scratches - tolerances to tight for glass,20-Apr-17,1,NA
+Mechanical,Mechanical,Online downtime: Servicing Compressor - 1/2 hr lost,20-Apr-17,7,NA
+Internal,Manufacturing,Online downtime: DF960 lids not painted correctly - reworked.,20-Apr-17,0.5,Painting/Powder coating
+External,Other,Online downtime: E2 error - Spark electrode issue - replaced.,20-Apr-17,1,Electrode
+Internal,NC Cell,Online downtime: DF960 Firebox pemsert came loose - reworked.,20-Apr-17,0.5,Firebox
+External,Other,Online Downtime: DF fan noisey - reworked.,20-Apr-17,0.25,Fan
+External,Other,Online Downtime: Issues with DS1400 Glass screen printed edges - not to spec,24-Apr-17,1,Glass
+Internal,NC Cell,Online Downtime:  x DS1400 Infill not folded correctly,24-Apr-17,0.25,folding
+Internal,Manufacturing,Online Downtime; DF lids not painted correctly - reworked.,24-Apr-17,0.5,Painting/Powder coating
+Internal,NC Cell,Online Downtime; 4 x DF960 lids had part overbent - reworked,24-Apr-17,0.5,folding
+External,Other,Online Downtime; 10 x DS1400 Glass rejected due to print issues,26-Apr-17,1,Painting/Powder coating
+Internal,NC Cell,Online Downtime: A complete run of DS Back tiles underbent - sent back for reworking.,26-Apr-17,0.5,folding
+Internal,Manufacturing,Online Downtime; DS1400 fireboxes did not have welds ground off the base - returned for reworking.,26-Apr-17,1,Welding
+External,Other,Online Downtime; DF700 chassis harness had loose terminal causing E4 error - reworked,27-Apr-17,0.5,Wiring
+Internal,Manufacturing,Online Downtime; Incorrect manifilds supplied to line DF700 instead of DF960. Line stopped.,27-Apr-17,3,NA
+Internal,NC Cell,Online Downtime; Waiting on DF parts to be supplied.,28-Apr-17,2,NA
+External,Other,Online Downtime: DF960 - wires coming out of Burner Tray Harness and 3 x Chassis main harness - reworked.,28-Apr-17,2.5,Wiring
+External,Farra Sheetmetal,Online Downtime: 101159 DL1100 Back panel - 55 folded incorrectly.,8-May-17,0.5,folding
+External,Other,Offline downtime: LCD screen not displaying correctly - replaced.,8-May-17,0.25,others
+External,Other,Online downtime: Loose wire in DL tennington harness - reworked on line.,8-May-17,0.25,Wiring
+Internal,NC Cell,Online Downtime; No DL1100 Fan plates folded.,8-May-17,0.75,folding
+Internal,Manufacturing,Online Downtime; DF lids not painted correctly - reworked.,8-May-17,0.5,Painting/Powder coating
+Internal,NC Cell,Online downtime: No RH chassis panels folded for ST900 (all LH panels supplied),10-May-17,3,folding
+Internal,Assembly,Online Downtime; Touch up scratched DS1400 infill panel.,10-May-17,0.5,Firebox
+Internal,NC Cell,Online Downtime; DF700 fireboxes - back panel was old version - no holes foe sipgot mount - reworked.,10-May-17,1,Firebox
+Internal,Assembly,Online downtime; E3 error at burn off on DF700 product - cable tie hitting on fan slowing it down - reworked.,10-May-17,0.5,Fan
+Internal,NC Cell,Online Downtime: DF960 - tapping out pemserts in firebox,15-May-17,0.5,Pemserts
+Internal,NC Cell,Online Downtime; DF960 chassis bases ran out on line.,15-May-17,0.5,NA
+External,Other,Online Downtime: DS1400 Modulator Pilot brass fitting - issue with fitting of pilot pipe and olive.,16-May-17,0.5,Gas Tray
+External,Other,Online downtime: DL pilot tee - machined thread for nut not to spec. Nut doesnot fit.,16-May-17,0.5,Gas Tray
+Internal,Engineering,Offline Downtime: 2 x Reworked PCB's from John S returned to Electronics no good.,16-May-17,0.5,PCB
+External,Other,Online downtime: Wire loose in DF960 main chassis harness - reworked.,16-May-17,0.5,Wiring
+External,Other,Online Downtime: DS1400 Modulator Pilot brass fitting - issue with fitting of pilot pipe and olive. Thread depth the problem,17-May-17,1.5,Gas Tray
+External,Other,Online Downtime: DS1400 glass out of spec. Time lost on line and time spent reworking 10 fires.,17-May-17,8.5,Glass
+Internal,Manufacturing,Online downtime: 3 x DS1400 Burners had Burner tubes out of alignment - reworked.,17-May-17,0.25,Burnner
+Internal,Not supplied on time,Online Downtime: Ran out of ST900 Lower door brackets 100437.,18-May-17,4,NA
+Internal,Manufacturing,Online Downtime: DS1400  Burner had Burner tube out of alignment - reworked.,18-May-17,0.25,Burnner
+Internal,NC Cell,Online Downtime: DF960 - tapping out pemserts in fireboxes,18-May-17,0.5,Pemserts
+Internal,NC Cell,Online downtime: 3 x old revision DL Fan Plates mixed with current revision.,18-May-17,1,Firebox
+External,Other,Online Downtime: Df power cord had damaged terminal - reworked.,18-May-17,0.5,Wiring
+Internal,Manufacturing,Online Downtime: issue with DF960 fireboxes leaking - crimping issue. Line stopped will re crimping took place.,22-May-17,10,Firebox
+External,Other,Online downtime: Ds modulator would not set pressures - reworked.,22-May-17,0.75,Modulating Valve
+External,Other,Online Downtime; 1 x Regulator and Tennington valve failed leak test - reworked.,22-May-17,0.5,Gas Tray
+Internal,Assembly,Online downtime: E2 error - Wire not on fenwal correctly - reworked.,22-May-17,0.25,Wiring
+Internal,Assembly,Online downtime; Touching up paint at final inspection.,22-May-17,0.25,Painting/Powder coating
+External,Other,Online Downtime: On going quality issues with DS1400 glass.,23-May-17,2,Glass
+External,Other,Online Downtime: E2 error loose wire in Df harnes - reworked.,23-May-17,0.5,Wiring
+External,Other,Online Downtime: Issue with DL chassis harnesses - wires falling out of terminals,24-May-17,4,Wiring
+Internal,Manufacturing,Online Downtime; Paint issues at the rear of the DL1100 fireboxes - reworked.,24-May-17,6,Painting/Powder coating
+External,Other,Online Downtime: Trueview glass for DS1400 mixed up with regular glass.,24-May-17,1,Glass
+Internal,Assembly,Online downtime: Broke HX stud on DL firebox - reworked.,24-May-17,0.5,Firebox
+Internal,Manufacturing,Online Downtime; issue with Powdercoat on DS Gib trims.,25-May-17,0.5,Painting/Powder coating
+Internal,Assembly,Online downtime: Wire not connected to Tennington Valve .,25-May-17,1,Wiring
+Internal,Manufacturing,Online Downtime; Bent HX Stud on Dl Firebox - reworked.,25-May-17,0.5,folding
+Internal,Assembly,Online Downtime; Leaking Firebox DL1100 - Air Intake not tightened - reworked,6-Jun-17,0.5,Firebox
+Internal,Assembly,Online downtime: E2 error - DL1100 missing firebox spark lead - reworked,6-Jun-17,0.5,Firebox
+Internal,Manufacturing,Online Downtime: Repaint issue with the rear of the DL1100 fireboxes,6-Jun-17,1.5,Firebox
+Internal,NC Cell,Online Downtime: Oily Fingerprints on EF5000 S/S Sheetmetal parts had to clean off,7-Jun-17,0.5,others
+Internal,Manufacturing,Online Downtime; Repaint on DL1100 firebox.,7-Jun-17,0.25,Firebox
+External,Other,Online Downtime: Test point on DL1100 had a blocked hole could not set pressures - replaced.,7-Jun-17,0.25,Gas Tray
+External,Other,Online downtime; DL1100 remote lost its program - replaced.,7-Jun-17,0.25,Programming
+Internal,Manufacturing,Online Downtime; Bent HX Stud on DL850 firebox - reworked,8-Jun-17,0.5,folding
+Internal,NC Cell,Online downtime: Missing stud on DL850 chassis base - reworked.,8-Jun-17,0.5,Chassis
+Internal,NC Cell,Online downtime; Short delivered 10 x 101082 Part for DX1000 run.,8-Jun-17,0.25,NA
+Internal,Manufacturing,Online Downtime; 3 x DL850 Lids had to be repainted poor finish - reworked.,8-Jun-17,0.25,Painting/Powder coating
+Internal,Assembly,Online Downtime; 2 x DF960 fires had loose HX Nuts on Mainfold - reworked,8-Jun-17,1,Pemserts
+Internal,Assembly,Online Downtime; DF960 firebox failed leak test - retightened tray and hatches.,8-Jun-17,0.5,Firebox
+Internal,Assembly,Online Downtime: Loose nuts on DL1100 Air intake failed leak test - reworked.,8-Jun-17,0.5,others
+Internal,Assembly,Online Downtime; E7 Pressure Hoses on the rear of the firebox around the wrong way - reworked.,8-Jun-17,4,Pressure switch
+External,Not supplied on time,Online Downtime: Ran out of DL Struts 610633.,8-Jun-17,2,NA
+Unplanned,Other,Offline Downtime; Could not start programming DF trays in electronics as waiting on Firmware change.,8-Jun-17,2,Programming
+Internal,NC Cell,Online Downtime: Issues fitting DL Electronic Trays into the chassis bases - Kev involced mods required.,9-Jun-17,1,Electric Tray
+External,Other,Online Downtime: Re working DS products at end of factory consumed poly therefore running line out as it is a 2 bin system.,9-Jun-17,1,NA
+Internal,NC Cell,Offline downtime; 12 x DL pilot Plates not pemmed - reworked,12-Jun-17,0.25,Pilot
+Internal,Manufacturing,Online downtime; Issue with welding splatter on DF air intakes - reworked,12-Jun-17,0.5,Welding
+Internal,Manufacturing,Online downtime; Trolley of DF Lids required repainting,12-Jun-17,0.5,Painting/Powder coating
+External,Other,Online downtime; DF Power cord had wrong terminals - rejected.,12-Jun-17,0.25,Wiring
+External,Other,Online downtime: E7 on DF700 Pressure switch issue - replaced.,12-Jun-17,0.5,Pressure switch
+Internal,NC Cell,Online downtime: 4 x pemserts in DF700 firebox required tapping out.,12-Jun-17,0.25,Pemserts
+Internal,NC Cell,Offline Downtime: 1 x DL electronic tray had wrong stud.,13-Jun-17,0.25,Pilot
+Internal,Assembly,Online downtime: Wrong jet in DF Tray - reworked.,13-Jun-17,0.5,Pilot
+External,Other,Online downtime; DF700 chassis harness - issue with a short wire length would not fit into connector.,13-Jun-17,0.5,Wiring
+Internal,Assembly,Online downtime;  x DSF700 fires had issue with HX tube hitting on chassis - reworked.,13-Jun-17,0.25,heat exchange/hx tube
+Internal,Assembly,Online downtime; DF Power cord not located into connector correctly - shorted out on line - reworked.,13-Jun-17,0.5,Wiring
+Internal,NC Cell,Online Downtime: 1 x run of DS chassis bases - turreted holes done with blunt tool - drilling out on line.,14-Jun-17,0.5,Chassis
+External,Other,Online downtime; 2 x DS1400 glass panels rejected due to quality issues.,14-Jun-17,0.25,others
+Internal,NC Cell,Online downtime; DL1100 Chassis sides top flange overbent - reworked on line.,14-Jun-17,0.5,folding
+Internal,NC Cell,Online downtime; DL1100 chassis bases not pemmed.,14-Jun-17,3,NA
+External,Other,Offline Downtime; ran out of 'AA' batteries for packing.,14-Jun-17,2,NA
+Internal,NC Cell,Online downtime: 20 x 101944 DF 700 TCO Brackets not pemmed,15-Jun-17,0.25,TCO Bracket
+External,Not supplied on time,Online Downtime: Ran out of 100861 Side Baffles,15-Jun-17,0.5,NA
+External,Not supplied on time,Online Downtime; Ran out of 100860 Electronic tray cover,15-Jun-17,0.5,NA
+Internal,Assembly,Online downtime: Had to relocate DS1400 on pallet at packing.,15-Jun-17,0.25,others
+Internal,Assembly,Online Downtime; Rubber end plug on Fan sticking causing E3 - reworked.,16-Jun-17,0.5,E3
+Internal,Not supplied on time,Offline downtime; No electrodes ready for DF Firebox Trays.,16-Jun-17,0.25,NA
+External,Other,Online Downtime; Broken Terminal on DF TCO Harness - reworked.,16-Jun-17,0.5,Wiring
+Internal,NC Cell,Online downtime; Ran out of 101584 HX brackets.,16-Jun-17,0.5,NA
+Internal,Assembly,Online downtime: DS400 - No power during burnoff - Terminal in connector loose - reworked.,19-Jun-17,1,Wiring
+Internal,NC Cell,Online downtime: DS1400 - 101797 old revision folded did not fit - rejected.,19-Jun-17,0.5,folding
+Internal,NC Cell,Offline Downtime: DS Electronic Trays not pemmed - returned.,19-Jun-17,0.5,Electric Tray
+Internal,Manufacturing,Online downtime; Contamination inside DL1100 fireboxes - reworked.,19-Jun-17,0.5,Firebox
+External,Not supplied on time,Online downtime; Ran out of 610056 DX Plastic packaging bags.,19-Jun-17,1,NA
+Internal,Manufacturing,Online Downtime; DL1100 lids not painted,19-Jun-17,1,Painting/Powder coating
+Electrical,Electrical,Online Downtime: DL/DF PAT tester broken wire - repaired.,19-Jun-17,0.75,Testing equitment /method
+External,Not supplied on time,Offline Downtime: Ran out of Black silicon tubing.,20-Jun-17,0.5,NA
+Internal,NC Cell,Offline downtime: 101794 DS Reg Stop Bracket  - folded incorrectly,20-Jun-17,0.25,folding
+Internal,Assembly,Online downtime: 2 x DF700 Products had rivets missing from chassis - reworked,20-Jun-17,0.25,Chassis
+Internal,Assembly,Online downtime: 1 x DF700 had rivets but no fan bracket - reworked.,20-Jun-17,0.25,Fan
+Internal,Manufacturing,Offline downtime: DL1100 fireboxes has paint contamination inside fireboxes - reworked.,20-Jun-17,0.5,Painting/Powder coating
+Internal,Not supplied on time,Online Downtime: Ran out of 100580 HX Clamps - BOM issue - fixed.,21-Jun-17,3,NA
+Electrical,Electrical,Offline Downtime: DF Electronic Tester in electronics.,21-Jun-17,2,Testing equitment /method
+Electrical,Electrical,Online Downtime: Test lead for testing DF Transformer failed - replaced.,21-Jun-17,0.25,Testing equitment /method
+Internal,Assembly,Online downtime: Brass Elbows on DF Trays not parallel - adjusted.,21-Jun-17,0.25,Gas Tray
+Mechanical,Mechanical,Online Downtime: Packing Station height release cable broke - replaced.,21-Jun-17,1.5,Testing equitment /method
+Internal,NC Cell,Offline Downtime: DF electronics Trays not ready.,22-Jun-17,5,Electric Tray
+Internal,NC Cell,Offline Downtime: 8 x DS Electronic Trays not pemmed - reworked.,22-Jun-17,1,Electric Tray
+Internal,Assembly,Online Downtime: Broke head off screw in DF firebox - reworked.,22-Jun-17,0.25,Firebox
+External,Not supplied on time,Offline Downtime: Ran out of 230111 Brass Fittings,22-Jun-17,0.5,NA
+External,Other,Online Downtime: E4 error DF700 - reworked.,22-Jun-17,0.5,E4
+Internal,NC Cell,Online Downtime; 3 x Df Firebox Baffles overbent - reworked.,22-Jun-17,0.25,folding
+External,Other,"Online Downtime: DS Modulator after burn off would not go High - low, replaced.",23-Jun-17,1,Modulating Valve
+Internal,NC Cell,Online downtime: Missing Pemsert on DF960 firebox for glass retainer - reworked.,23-Jun-17,0.5,others
+External,Not supplied on time,Online downtime: Ran out of G9090 screws - organising alternative.,23-Jun-17,1,NA
+Internal,NC Cell,Online Downtime: DF front stone retainers overbent - reworked.,23-Jun-17,2,folding
+External,Other,Online Downtime: Issue with DS1400 fire shutting down on low and normal voltage,26-Jun-17,1,Normal
+Internal,Manufacturing,Online downtime: ST900 firebox manifolds failing leak test due to lids.,27-Jun-17,1.5,Firebox
+Internal,NC Cell,Offline Downtime; Ran out of TCO Brackets for DS1400 fires - more made.,27-Jun-17,0.25,NA
+External,Not supplied on time,Offline Downtime: Ran out of 2m HX Tubing.,27-Jun-17,0.25,NA
+External,Other,Offline Downtime; 230062 Brass fittings not machined correctly - rejected.,27-Jun-17,0.5,Gas Tray
+Internal,Not supplied on time,Online downtime: Ran out of painted back panels.,27-Jun-17,1,NA
+External,Other,Online Downtime; More issues with 2 x DS1400 fires with flames dropping off and shutting down.,27-Jun-17,3,others
+Electrical,Electrical,Offline Downtime: Printer at Burn Off not printing.,27-Jun-17,0.5,remote
+Electrical,Electrical,Offline downtime; DF Tray Tester in Electronics failed. - repaired.,27-Jun-17,1,Testing equitment /method
+External,Other,Online Downtime; ST900 Firebox spigot failed leak test - replaced.,28-Jun-17,1,Firebox
+External,Other,Online Downtime; More issues with 2 x DS1400 fires with flames dropping off and shutting down.,28-Jun-17,3,others
+External,Other,Online Downtime; DL850 Fire - issue with fire failing - Found that tennington valve was drawing to muck power causing fire to fail - replaced.,28-Jun-17,20,teddington valve
+External,Not supplied on time,Offline Downtime; Ran out of Propane labels for Installation packs.,28-Jun-17,5,NA
+External,Not supplied on time,Offline Downtime; Ran out of pressure switches for DF and DS products.,28-Jun-17,1,NA
+External,Not supplied on time,Offline Downtime; Ran out of stock of 390003 screws,29-Jun-17,0.5,NA
+External,Other,Online downtime; 2 x DF960 Wiring harnesses had wire terminals that have fallen out.,29-Jun-17,0.5,Wiring
+External,Not supplied on time,Offline Downtime: Ran out of Propane labels for Installation packs.,29-Jun-17,8,NA
+External,Not supplied on time,Online Downtime; Ran out of Pressure switches for DF line,29-Jun-17,6,NA
+External,Not supplied on time,Online Downtime: Ran out of Pressure switches for DF line,30-Jun-17,40,NA
+External,Not supplied on time,Online Downtime; Ran out of Propane Labels required for production.,30-Jun-17,8,NA
+Mechanical,Mechanical,Online downtime; Ran out of ULPG gas for Burn Off.,3-Jul-17,2,NA
+Internal,NC Cell,Offline Downtime: 14 x DS Electronic tray tops - pemserts on wrong side - reworked.,3-Jul-17,0.5,Electric Tray
+Internal,Manufacturing,Offline Downtime; 3 x DS Tray handles riveted wrong way - reworked.,3-Jul-17,0.5,Electric Tray
+Internal,Manufacturing,Online downtime; DS Infill panels - issues with paint flaking off.,4-Jul-17,0.5,Painting/Powder coating
+Internal,NC Cell,Online downtime; Tight  M4 inserts in DF fiebox for tray - tapped out.,4-Jul-17,1,Firebox
+Unplanned,Other,Online Downtime; DS1400 failed leak test - R&D assessing,5-Jul-17,1,Firebox
+External,Other,Online downtime: No gas through DL850 regulator - replaced,6-Jul-17,1,Regulator
+Electrical,Electrical,Online downtime: Broke wire on PAT Tester on DL line - repaired,6-Jul-17,0.5,Testing equitment /method
+Internal,Manufacturing,Online Downtime; DL850 firebox - loose bottom glass retainer - re-riveted.,6-Jul-17,0.5,others
+Internal,Not supplied on time,Online downtime; DS chassis bases not painted,6-Jul-17,0.5,NA
+External,Other,Online downtime; DS modulator faulty at Burn Off - replaced.,6-Jul-17,0.75,Modulating Valve
+External,Other,Online downtime; DS1400 Chassis Harness - faulty earth terminals.,7-Jul-17,0.75,Wiring
+External,Other,Online downtime; Tennington Valve had solder piercing insulation causing earth fault - repaired.,7-Jul-17,1,teddington valve
+Internal,Not supplied on time,Online downtime; Ran out of DS Rear Firebox Painted panels.,10-Jul-17,0.75,NA
+External,Other,Online downtime; Damaged terminal in DX chassis harness - repaired.,10-Jul-17,0.25,Wiring
+Internal,Manufacturing,Online downtime; Weld splatter inside DL850 fireboxes.,10-Jul-17,0.5,Welding
+Internal,NC Cell,Offline downtime; DX reflective panels scratched at knock out - rejected,10-Jul-17,0.25,others
+Internal,Manufacturing,Offline downtime; DL electronic trays late delivery,10-Jul-17,1.5,NA
+External,Farra Sheetmetal,Online downtime; EF Burners Tube locted in wrong place x 30.,12-Jul-17,1,NA
+Internal,NC Cell,Online downtime: Finger marks on S/S parts.,12-Jul-17,0.5,others
+External,Other,Online downtime; E4 on DS1400 Faulty PCB - replaced.,12-Jul-17,0.75,PCB
+Internal,Not supplied on time,Online downtime; Ran out of 102081 & 102082 for Ds line.,12-Jul-17,0.5,NA
+Unplanned,Other,Online downtime; Ds HX bracket on F/box - laser form incorrect size - drilling out.,12-Jul-17,0.5,laser
+Internal,NC Cell,Online Downtime: DS firebox missing pemsert.,12-Jul-17,0.25,Firebox
+Internal,Assembly,Online Downtime; Loose wire on TCO - repaired,12-Jul-17,1,Wiring
+Internal,Manufacturing,Online downtime; DL850 firebox - hole in weld failed leak test.,12-Jul-17,0.5,Firebox
+Internal,NC Cell,Online Downtime; Pemsert missing on top of Firebox.,13-Jul-17,0.5,Firebox
+External,Other,Online Downtime: E2 error - Issue with terminal to solenoid on modulator,13-Jul-17,1.5,Modulating Valve
+Internal,Manufacturing,Offline downtime; Ds electronic tray tops - parts riveted on the wrong way - reworked.,13-Jul-17,0.75,Electric Tray
+Unplanned,Other,Online downtime; Ds HX bracket on F/box - laser form incorrect size - drilling out.,13-Jul-17,0.5,laser
+Internal,Manufacturing,Offline downtime; 5 x DX electronic trays not riveted - reworked.,13-Jul-17,0.25,Electric Tray
+Mechanical,Mechanical,Online downtime; air line on lifter at packing failed.,13-Jul-17,0.75,NA
+Internal,NC Cell,Offline downtime; 2 x DF electronic trays missing pemserts.,13-Jul-17,0.5,Electric Tray
+External,Wiring solutions,Online downtime; 420198 DF Main Chassis harness - terminal fell out of harness.,13-Jul-17,0.25,Wiring
+External,Wiring solutions,Online Downtime: E2 error - Issue with terminal to solenoid on modulator,14-Jul-17,0.5,Wiring
+Electrical,Electrical,Offline downtime; Broken wire on DF Tester in Electonics - repaired.,14-Jul-17,1,Testing equitment /method
+Internal,Assembly,Online Downtime; E4 - DL1100 gold tabs on electronic tray dirty - reworked.,14-Jul-17,1,others
+External,Other,Offline Downtime: 210060 Brass fitting - arrived with swarf in box of fittings.,17-Jul-17,0.5,Gas Tray
+External,Wiring solutions,Online downtime; 1 x 420207 DS1400 chassis harness - TCO terminal fell off - reworked.,17-Jul-17,0.5,Wiring
+Internal,NC Cell,Online dowmtime; Top glass retainer on DS Firebox - Tabs bent incorrectly,18-Jul-17,0.5,folding
+External,Wiring solutions,Online Downtime; 420207 DS Chassis harnesses - Earth Terminals falling off - reworked.,18-Jul-17,0.5,Wiring
+External,Other,Offline Downtime; Parts labelled incorrectly by stores - placed into Tennington valves so had to rework - 230166 instead of 230157,18-Jul-17,1.5,NA
+External,Not supplied on time,Offline Downtime; Ran out of 401017 PCB's,18-Jul-17,3,NA
+External,Not supplied on time,Offline Downtime; Ran out of 401017 PCB's,19-Jul-17,8,NA
+External,Wiring solutions,Online downtime: E3 error on DS product Intermittent fault - Terminal on Main Tray harness loose - reworked.,19-Jul-17,1,Wiring
+External,Other,Online downtime: Variation of angled portion of DL Air intake tube - okayed for production.,19-Jul-17,0.75,others
+Internal,Manufacturing,Offline downtime; 2 x DS Gib Trims not powdercoated correctly,19-Jul-17,0.5,Painting/Powder coating
+Internal,NC Cell,Online downtime; Having to tap out pemserts on Dl Pilot Holder x 8,19-Jul-17,0.5,Pemserts
+Internal,Manufacturing,Offline downtime; DS Electronic Tops made incorrectly - reworked.,20-Jul-17,0.5,Electric Tray
+External,Other,Online Downtime: DS Modulator could not adjust pressures - replaced.,20-Jul-17,0.5,Modulating Valve
+External,Other,Online downtime; 1 x Leaking Dormont hose - replaced.,20-Jul-17,0.5,Gas Tray
+Internal,Assembly,Online downtime; Ds Fan terminal not plugged in correctly - reworked.,20-Jul-17,0.75,Wiring
+Internal,NC Cell,Online downtime; 1 x DL Firebox - HX stud loose - reworked.,20-Jul-17,0.5,heat exchange/hx tube
+Internal,NC Cell,Online downtime; Having to tap out pemserts on Dl Pilot Holder x 2,20-Jul-17,0.25,Gas Tray
+Internal,Assembly,Online downtime; DL850 failed firebox leak test - No fins in air intake - reworked.,20-Jul-17,1,others
+Internal,NC Cell,Offline downtime; DS Tray hatches folded incorrectly,21-Jul-17,0.25,folding
+Electrical,Electrical,Online Downtime: Power Cut.,21-Jul-17,15,NA
+External,Other,Online Downtime; 7 x Maxitrol Valves failing to set pressures,24-Jul-17,4,Maxitrol Valves
+External,Other,Offline Downtime: Faulty PCB DS1400 E4 error.,24-Jul-17,0.75,PCB
+External,Other,Online Downtime; Faulty capacitor on ds1400 - replACED.,24-Jul-17,0.75,Electric Tray
+Electrical,Electrical,Offline downtime; DF electronic Tray tester,24-Jul-17,0.5,Electric Tray
+External,Other,Online Downtime; 1 x Maxitrol Valves failing to set pressures,25-Jul-17,1,Maxitrol Valves
+Internal,NC Cell,Online Downtime; DF700 had to tap out 7 x nutserts.,25-Jul-17,0.5,Pemserts
+Internal,NC Cell,Online downtime;DF700 had to tap out 7 x nutserts.,26-Jul-17,0.25,Pemserts
+External,Other,Offline Downtime: Faulty Tennington valve causing fire to turn off - no fault on remote.,26-Jul-17,8,teddington valve
+Electrical,Electrical,Online downtime; Replace harness tester in burn off,28-Jul-17,0.25,NA
+Internal,NC Cell,Online downtime; Tap out 2x glass retainers,28-Jul-17,0.25,others
+Internal,NC Cell,Online downtime; EF Tray folded wrong,28-Jul-17,2,folding
+External,Other,Online downtime; EF pallet - thickness of board,28-Jul-17,0.25,NA
+Internal,NC Cell,Online downtime; DX1500 gib fascia,28-Jul-17,1,others
+Internal,Manufacturing,Online downtime; DF960 front of firebox bowed,28-Jul-17,0.5,Firebox
+External,Other,Online downtime; 2x faulty DS1400 modulators,4-Aug-17,1.5,Modulating Valve
+Internal,Assembly,Offline Downtime; DF Magnet brackets put together incorrectly - reworked,7-Aug-17,1,others
+Internal,Manufacturing,Online downtime; 1 x Rivet on DF Burner Tray to high and hitting Burner - reworked.,7-Aug-17,0.5,Burnner
+External,Not supplied on time,Online downtime; Ran out of 610571 DX Glass packaging,7-Aug-17,6,NA
+Electrical,Electrical,Online downtime; Wire on DF Tester broke - repaired.,7-Aug-17,0.25,Testing equitment /method
+Internal,Assembly,Offline Downtime: Reprogrammed 6 x DF Electronic Trays,8-Aug-17,0.5,Programming
+Internal,Not supplied on time,Offline downtime; Waiting on DL electronic Trays from manufacturing,8-Aug-17,2,NA
+Internal,NC Cell,Offline downtime; DL1100 and DL850 Chassis Bases not pemmed.,8-Aug-17,0.5,Chassis
+Internal,NC Cell,Offline downtime; 1 x DL Electronic Tray not pemmed - reworked.,8-Aug-17,0.25,Electric Tray
+Internal,Manufacturing,Online downtime; Missing bracket off DF Spigot plate - reworked.,8-Aug-17,0.25,Chassis
+External,Other,Online downtime; 1 x DS1400 modulator faulty - repleced,9-Aug-17,0.75,Modulating Valve
+Internal,Assembly,Online downtime; 1 x DS1400 TCO Harness not connected correctly - reworked.,10-Aug-17,0.25,Wiring
+External,Other,Online downtime; Faulty Tennington valve caused  E4 error in Burn Off on DL850 - replaced.,10-Aug-17,1,teddington valve
+External,Other,Online downtime; Ds1400 Modulator playing up on Hi/Low - Kev okayed to go out after testing.,11-Aug-17,2,Modulating Valve
+External,Other,Online downtime: 1 x faulty PCB in DF700 fire - replaced.,14-Aug-17,0.5,PCB
+Internal,NC Cell,Online downtime: Tap out pemserts x 4 on DF fireboxes for burner tray,14-Aug-17,0.25,Firebox
+External,Wiring solutions,Online downtime: Loose terminals in 420198 DF700 chassis harness.,15-Aug-17,3,Wiring
+External,Other,Online downtime: 1 x Modulator not going on low.,15-Aug-17,2,Modulating Valve
+Internal,NC Cell,Online Downtime: 3 x DF700 fireboxes pemsert req'd tapping out.,15-Aug-17,0.25,Firebox
+Internal,Manufacturing,Online Downtime; DL1100 fireboxes weld not ground on top of f/box affecting ramp - reworked,16-Aug-17,0.5,Welding
+External,Not supplied on time,Online downtime: Ran out of 610676 FS Lid supports for packing.,17-Aug-17,5,NA
+Internal,NC Cell,Online downtime: Rivenut replaced in DL1100 firebox,17-Aug-17,0.25,Firebox
+External,Other,Offline Downtime: Faulty Auxilary Switch in DL Electronic tray - replaced.,17-Aug-17,0.25,Electric Tray
+Internal,NC Cell,Offline Downtime; DF700 TCO Brackets pemmed incorrectly - reworked.,21-Aug-17,0.25,TCO Bracket
+Internal,NC Cell,Online downtime; Issues with DF960 101961 DF Front Retainers bowing and touching Glass. Issue due to lasered holes moving to Turret.,21-Aug-17,1.5,laser
+Internal,NC Cell,Offline downtime; 1 x AF and DL tray missing studs - reworked.,21-Aug-17,0.25,folding
+Internal,NC Cell,Offline Downtime; EF5000 101418 Valve Plates not pemmed,22-Aug-17,1,Electric Tray
+Internal,NC Cell,Offline downtime; 101418 Loose pemserts due to material change - req'd tacking,22-Aug-17,0.25,material
+Internal,NC Cell,Offline downtime: 2 x Df and 1 x DL Electronic tray missing studs - reworked.,22-Aug-17,0.25,Electric Tray
+External,Not supplied on time,Online Downtime: Ran out of DL spark electrodes - 6 fires dropped until next week.,23-Aug-17,4,NA
+External,Other,Online Downtime: E4 eror at burn off - faulty PCB.,23-Aug-17,1,PCB
+Internal,Manufacturing,Online downtime: DF Firebox had a hole in a weld - reworked.,23-Aug-17,0.25,Welding
+Internal,Manufacturing,Online Downtime: 20 x DF fireboxes had rivets in wrong hole - reworked.,23-Aug-17,0.5,Firebox
+External,Other,Offline Downtime: 3 x 420197 harnesses had loose wire in connectors,24-Aug-17,0.25,Wiring
+External,Other,Online Downtime; DL Chassis harness 420198 loose wire in connector - replaced.,24-Aug-17,1,Wiring
+External,Other,Offline downtime; Broken wire in 420199 harness.,24-Aug-17,0.5,Wiring
+External,Other,Online downtime: E3 error at Burn off - broken TCO wire - replaced.,25-Aug-17,1,Wiring
+External,Farra Sheetmetal,Offline downtime: 60 x 101221 DL Bracket folded incorrectly,28-Aug-17,0.5,folding
+Internal,NC Cell,Offline Downtime; 12 x 101382 supplied short.,28-Aug-17,0.25,NA
+Internal,NC Cell,Offline downtime: 1 x DS Infill panel folded incorrectly - reworked,29-Aug-17,0.5,folding
+External,Other,Online Downtime: 3 x DS Modulator issues with fire going from high to low flame.,29-Aug-17,4,Modulating Valve
+Internal,Manufacturing,Online downtime: DS Burner tubes formed incorrectly x 30 - reworked.,29-Aug-17,0.5,Burnner
+External,Other,Online downtime; DL1100 - Faulty spark electrode shortening out - replaced.,30-Aug-17,2,Electrode
+External,Other,Online downtime: DS1400 pin fell out of the main chassis harness terminal - reworked.,30-Aug-17,0.25,Wiring
+Internal,Assembly,Online downtime; 2 x DL850 fires fitted with wrong restrictor - reworked.,31-Aug-17,0.5,resistors
+External,Other,Online Downtime: 1 x DS Modulator issues with fire going from high to low flame.,31-Aug-17,0.5,Modulating Valve
+Internal,Manufacturing,Online downtime; 1 x DL850 Chassis lid not painted correctly and missing a part - reworked.,31-Aug-17,0.5,Painting/Powder coating
+External,Other,Online downtime; 1 x DL850 spark electrode cracked ceramic - replaced.,1-Sep-17,1,Electrode
+External,Other,Online downtime: No software in Remote - reworked.,1-Sep-17,0.5,remote
+Internal,Assembly,Online downtime; 2 x DF700 fireboxes taped inside wrong - rewoked.,4-Sep-17,0.25,Tape
+Electrical,Electrical,Online downtime; Earth lead on DF PAT Tester broke - repaired.,4-Sep-17,0.5,Testing equitment /method
+Internal,Manufacturing,Online Downtime: Hole in DL1100 firebox weld -reworked,6-Sep-17,1,Welding
+Internal,Manufacturing,Offline downtime; DF700 Lid bracket put on wrong way - repaired,6-Sep-17,0.25,others
+Internal,Manufacturing,Online Downtime; DL1100 firebox failed leak test - hole in weld - reworked.,7-Sep-17,1,Firebox
+Internal,Assembly,Online downtime; DF700 fireboxes - issues with manifold not lining up with the lid,7-Sep-17,0.5,Firebox
+Internal,Manufacturing,Online downtime; DF700 fireboxes - issues with manifold not lining up with the lid,8-Sep-17,1.5,Firebox
+Internal,NC Cell,Offline Downtime; 1 x DS1400 lid folded incorrectly,8-Sep-17,0.25,folding
+Internal,NC Cell,Online downtime; 8 x DF700 firebox nutserts required tapping out - random.,8-Sep-17,0.25,Firebox
+Internal,NC Cell,Online downtime; 1 x DF firebox tray missing pemserts - reworked.,8-Sep-17,0.5,Firebox
+External,Other,Online downtime; 1x PCB fried ay Burn Off - replaced.,8-Sep-17,0.5,PCB
+Internal,Assembly,Online downtime; Screw broke off in DF700 pilot assembly - reworked.,8-Sep-17,0.5,Fastener
+External,Other,Online Downtime: Issues with DS Modulator not going from HI to Low flame - 1 x taken to R&D,11-Sep-17,6,Modulating Valve
+Internal,NC Cell,Online downtime; 1 x DF burner tay missing pemserts - reworked.,11-Sep-17,0.5,Gas Tray
+External,Wiring solutions,Online downtime; 1 x DF chassis harness had a loose terminal - repaired.,11-Sep-17,0.25,Wiring
+External,Other,Online Downtime: 3 x DS Modulators isuues setting Hi/Low,12-Sep-17,2,Modulating Valve
+Internal,NC Cell,Online Downtime; Pemsert missing from DL Firebox for Pilot Holder.,12-Sep-17,0.25,Firebox
+External,Other,Offline downtime; 1 x  E4 error on PCB during Electronics Testing,12-Sep-17,0.25,PCB
+Internal,Manufacturing,Offline downtime: Part fitted incorrectly to DS Electronic Tray top - reworked,12-Sep-17,1,Electric Tray
+External,Wiring solutions,Online Downtime; 1 x loose terminal in DL Chassis harness - reworked.,12-Sep-17,0.25,Wiring
+Internal,Manufacturing,Offline Downtime; 50 x 102049 glass retainers folded incorrectly - replaced,12-Sep-17,0.25,folding
+Internal,Assembly,Online Downtime; Assessing DF700 HX Fitting onto firebox.,13-Sep-17,0.5,heat exchange/hx tube
+External,Other,Online Downtime; E4 error on Ds1400 fire - replaced PCB,13-Sep-17,0.75,PCB
+External,Other,Online downtime; 1 x DS Modulators isuues setting Hi/Low - replaced.,13-Sep-17,0.75,Modulating Valve
+Internal,Manufacturing,Online Downtime; Issues with Df Spigot Plates - spigots not formed correctly,13-Sep-17,1.5,laser
+Internal,Manufacturing,Online downtime; Bent DF firebox -,13-Sep-17,0.25,folding
+External,Other,Online downtime; Changed TCO on DF960 fire,14-Sep-17,0.5,TCO
+Internal,NC Cell,Online downtime; DF960 bottom glass reainer tight when fitting glass.,14-Sep-17,0.75,others
+Internal,NC Cell,Online downtime; Bridgeforms on DF960 chassis bases were tight when fitting electronic trays.,14-Sep-17,0.5,Chassis
+Internal,NC Cell,Offline downtime; Bent stud on DF Electronic Tray- reworked.,15-Sep-17,0.25,Electric Tray
+Internal,Manufacturing,Online downtime; Mark looking at Df Spigot plate issues.,15-Sep-17,1,NA
+Internal,NC Cell,Offline Downtime; Loose nutsert on DS firebox - reworked.,15-Sep-17,0.5,Pemserts
+External,Other,"Online downtime: 1 x 230062 elbow - damaged, replaced",19-Sep-17,0.25,Gas Tray
+External,Other,Online Downtime; 1 x 410127 Spark electrode cracked ceramics - replaced.,19-Sep-17,0.25,Electrode
+Internal,NC Cell,Offline Dontime; 1 x DF700 Stone guard folded incorrectly - reworked.,20-Sep-17,1,folding
+External,Other,Offline Downtime; 1 x PCB - E3 faulty during electronics testing.,21-Sep-17,2,PCB
+External,Other,Offline Downtime; 8 x Tennington Valves had faulty terminals.,21-Sep-17,1,teddington valve
+Other,Other,Offline Downtime; Ran out of Ds Fan part and DS Reflectors - Stock Issue.,21-Sep-17,1.5,NA
+Internal,Assembly,Online Downtime; DF960 E3 - TCO wires not connected - reworked,22-Sep-17,2,Wiring
+Electrical,Electrical,Online Downtime: DF960 Burn Off Power Flue Wand faulty - repaired.,22-Sep-17,0.5,Testing equitment /method
+Other,Other,Online Downtime; DS Parts - ran out on line - Need Ostendo stock take done.,22-Sep-17,5.5,NA
+Internal,NC Cell,Offline downtime; 102049 Magnet Brackets folded incorrectly.,22-Sep-17,0.25,others
+Internal,NC Cell,Offline Downtime; 1 x 102056 DS bottom glass retainer overbent - replaced.,22-Sep-17,0.5,folding
+External,Other,Online downtime; Ds Modulator faulty - replaced.,22-Sep-17,0.75,Modulating Valve
+Internal,NC Cell,Offline downtime: DF Chassis Back panels - rivet holes punched slight smaller,25-Sep-17,0.5,Chassis
+Internal,NC Cell,Offline Downtime: 1 x DX Infill panel folded incorrectly - replaced.,25-Sep-17,0.25,folding
+Mechanical,Mechanical,Online downtime; Issues with LPG gas supply to Burn Off - lines down.,25-Sep-17,3.5,NA
+Internal,NC Cell,Offline downtime; 11 x 101079 DX Aux Bracket folded incorrectly - replaced.,25-Sep-17,0.25,folding
+Internal,Supplied short,Offline downtime: 1 x DF960 Stone retainer short from manufacturing.,25-Sep-17,0.25,NA
+Mechanical,Mechanical,Online Downtime: Nail Gun jammed at packing,25-Sep-17,0.5,Testing equitment /method
+Internal,NC Cell,Online downtime; 5 x 101082 DX Plug Brackets short.,26-Sep-17,0.25,NA
+Internal,NC Cell,Online downtime; 2 x 100946 DX HX straps short for run,26-Sep-17,0.25,heat exchange/hx tube
+Other,Other,Offline downtime; BOM issue with 101302 ST900 clamp Bracket - 10 x short for build.,26-Sep-17,0.25,NA
+External,Other,Online Downtime: Faulty pressure switch on DF700 - replaced.,26-Sep-17,1,Pressure switch
+Internal,Manufacturing,Online Downtime: Hole in DF700 firebox weld - reworked.,27-Sep-17,0.25,Welding
+Internal,Supplied short,Online downtime: Ran out of P/coated Glass baffle parts for Df,27-Sep-17,1.5,NA
+Internal,NC Cell,Online downtime; DF TCO Chassis cover folded incorrectly - replaced.,27-Sep-17,0.5,folding
+Internal,NC Cell,Offline downtime; 2 x ST900 back chassis panels folded incorrectly - replaced.,27-Sep-17,0.25,folding
+Internal,NC Cell,Online downtime; 4 x 102082 part short for DS run.,27-Sep-17,0.5,NA
+Internal,Assembly,Online downtime; Burner Pipes on DS Tray leaking gas at burn off - reworked.,28-Sep-17,1,Gas Tray
+Internal,NC Cell,Offline downtime; 1 x DF Electronic tray missing studs - reworked.,28-Sep-17,0.25,Electric Tray
+Internal,Assembly,Online Downtime;Black pressure switch hose not connected - E7 error at burn off - reworked.,29-Sep-17,0.75,Pressure switch
+Internal,Assembly,Online downtime: 2 x DF960 TCO Broken on line - replaced.,29-Sep-17,1,TCO
+External,Other,Online downtime; 1 x DF PCB lost its software - replaced,29-Sep-17,1,Programming
+Internal,NC Cell,Online downtime; I x pemsert on DL pilot holder raised affecting pilot - reworked.,3-Oct-17,0.25,Pemserts
+Internal,Assembly,Online downtime; Fan not connected in DF960 fire plus TCO missing 1 x screw - reworked.,3-Oct-17,2.5,Fan
+External,Other,Offline Downtime; 1 x DL850 remote not scrolling - replaced.,4-Oct-17,0.25,remote
+Internal,NC Cell,Offline downtime; 16 x 102009 not folded correctly,5-Oct-17,0.25,folding
+Internal,NC Cell,Offline downtime; 9 x 101370 not folded correctly,5-Oct-17,0.25,folding
+Internal,NC Cell,Offline downtime; 18 x 102010 not pemmed correctly,5-Oct-17,0.25,Pemserts
+Internal,Assembly,Online downtime; Issue with Dl1100 at Burn off - reworked.,5-Oct-17,1,NA
+External,Not supplied on time,Online Downtime; Ran out of DS Packing Lids,10-Oct-17,0.5,NA
+External,Other,Online downtime; DS1400 - E4 error on PCB - reworked,10-Oct-17,0.75,PCB
+Internal,NC Cell,"Offline Downtime; Ran out of 102008, 102009, and 101901 parts",10-Oct-17,0.5,NA
+Internal,NC Cell,Online downtime; 102012 folded wrong way - replaced.,11-Oct-17,0.25,folding
+Internal,NC Cell,Online downtime; 11 x 100082 EF cover folded wrong way.,11-Oct-17,0.5,folding
+Internal,NC Cell,Offline downtime; 2 x DS Hatch Covers folded wrong way - replaced.,11-Oct-17,0.25,folding
+External,Other,Online downtime; DF960 tray lost software - reworked.,11-Oct-17,0.75,Programming
+External,Not supplied on time,Online downtime; DF Fan brackets - ran out on line - replaced,11-Oct-17,1,NA
+Internal,NC Cell,Offline downtime; 2 x DF Fan Brackets folded incorrectly - replaced.,11-Oct-17,0.25,folding
+Mechanical,Mechanical,Online downtime; Packing Staple Gun jammed.,11-Oct-17,1,Testing equitment /method
+Internal,NC Cell,Offline Downtime; 1 x DF Fan Bracket folded wrong way.,12-Oct-17,0.25,folding
+Internal,Supplied short,Offline downtime; 2 x DF960 Top Glass Retainers short.,12-Oct-17,0.25,NA
+External,Not supplied on time,Online Downtime; Ran out of 610633 struts at packing,13-Oct-17,1,NA
+External,Other,Online downtime; 3 x E4 errors on DS1400 fires - replaced PCBs,13-Oct-17,0.75,PCB
+External,Other,Online Downtime; DS Modulator failed at Burn Off - no High / Low adjustment.,13-Oct-17,0.5,Modulating Valve
+Internal,NC Cell,Online downtime; 1 x DS1400 firebox base folded inside out - reworked.,13-Oct-17,0.5,folding
+External,Other,Offline Downtime; DS PCB replaced - E4 error issue.,16-Oct-17,0.25,PCB
+Electrical,Electrical,Offline Downtime; Maintanance in Electronics on Testers.,16-Oct-17,0.5,Electric Tray
+Internal,NC Cell,Online downtime; DS Infill panels not fitting - reworked.,16-Oct-17,0.5,Firebox
+External,Other,Online downtime; DL electronic Tray not respondimg to Remote,16-Oct-17,0.5,Electric Tray
+Mechanical,Mechanical,Online downtime; Compressor breakdown.,16-Oct-17,1,NA
+External,Other,Online Downtime; Electronic Tray lost program - reworked.,17-Oct-17,0.5,Programming
+External,Other,Online downtime; Issue with ceramic spark electrode - replaced.,17-Oct-17,1,Electrode
+Internal,Assembly,Online downtime: Issue with Fire Serial numbers on Ds1400 product.,17-Oct-17,0.5,NA
+Internal,Assembly,Online Downtime; Reworking 5 x  DS fires with serial number issue.,18-Oct-17,2.5,NA
+Internal,NC Cell,Online downtime; Ran out of 100946 DX HX Straps.,18-Oct-17,0.5,NA
+Internal,NC Cell,Offline downtime; DS Manifold missing pemsert - reworked.,18-Oct-17,0.25,heat exchange/hx tube
+Internal,Manufacturing,Online downtime; DF960 Manifold assembled incorrectly - reworked.,18-Oct-17,0.5,heat exchange/hx tube
+Internal,NC Cell,Offline Downtime; 102101 stud in wrong place- reworked,19-Oct-17,0.25,folding
+Internal,NC Cell,Offline downtime; DS Chassis no earth stud - reworked.,19-Oct-17,0.25,folding
+Internal,NC Cell,Offline Downtime; 1 x DS Chassis base folded incorrectly.,19-Oct-17,0.5,folding
+External,Other,Offline Downtime; 2 x PCB's with E4 error - replaced.,19-Oct-17,0.5,PCB
+External,Other,Offline downtime; 1 x 410165 relay faulty - replaced.,19-Oct-17,0.5,Electric Tray
+Internal,Manufacturing,Online downtime; 1 x DL850 burner with lose mixer plate,19-Oct-17,0.5,Burnner
+Internal,NC Cell,Online Downtime; 30 x 102080 DS Bottom Relective panel holders folded incorrectly,20-Oct-17,0.5,folding
+External,Other,Offline Downtime; 2 x Faulty Remotes - not communicating,20-Oct-17,0.5,remote
+External,Other,Offline Downtime; 3 x Remotes with buttons not working correctly,20-Oct-17,0.25,remote
+Electrical,Electrical,Online downtime; Fire alarm Test.,20-Oct-17,0.5,NA
+Internal,NC Cell,Online Downtime; 30 x 102080 DS Bottom Relective panel holders folded incorrectly,20-Oct-17,0.5,folding
+External,Other,Offline Downtime; 2 x Faulty Remotes - not communicating,20-Oct-17,0.5,remote
+External,Other,Offline Downtime; 3 x Remotes with buttons not working correctly,20-Oct-17,0.25,remote
+Electrical,Electrical,Online downtime; Fire alarm Test.,20-Oct-17,0.5,NA
+Internal,NC Cell,Offline downtime; 1 x 102059 folded incorrectly,24-Oct-17,0.25,folding
+Internal,NC Cell,Online Downtime; 28 x 101814 DS bottom panel holder folded incorrectly.,25-Oct-17,6,folding
+Internal,NC Cell,Online Downtime: 1 x DL Firebox missing studs - reworked.,25-Oct-17,0.5,Firebox
+External,Other,Online downtime; faultyPCB on DS product - not responding to remote - replaced.,25-Oct-17,0.75,PCB
+Internal,Assembly,Online Downtime; 1 x DS Firebox failed leak test back panel not fitted correctly - reworked.,25-Oct-17,0.5,Firebox
+External,Other,Offline downtime; 1 x PCB failed E4 in electronics,25-Oct-17,0.25,PCB
+Internal,NC Cell,Offline downtime; 95 x 101081 folded incorrectly - replaced,25-Oct-17,0.25,folding
+External,Other,Offline Downtime: 3 x Remote - buttons not working on remote.,26-Oct-17,0.5,remote
+Internal,NC Cell,Offline downtime: 80 x DF Chassis spacers not folded correctly - replaced.,26-Oct-17,0.5,folding
+Internal,Assembly,Online downtime; wrong TCO fitted to DF product - reworked.,26-Oct-17,0.25,TCO
+Internal,Manufacturing,Offline downtime: DF firebox back panel riveted wrong side - reworked.,26-Oct-17,0.25,Chassis
+External,Other,Online downtime; DF960 - E4 error replaced PCB.,26-Oct-17,0.5,PCB
+Internal,NC Cell,Offline downtime: 102010 DS TCO bracket pemmed incorrectly - replaced.,26-Oct-17,0.25,TCO Bracket
+Internal,Assembly,Online Downtime; DF960 - Wires loose in connector - no power at burn off.,26-Oct-17,0.5,Wiring
+Internal,NC Cell,Online downtime; 2 x Studs missing from DL850 chassis - reworked.,30-Oct-17,0.25,Chassis
+External,Other,Offline Downtime: 1 x Remote - buttons not working on remote.,30-Oct-17,0.25,Remote
+External,Other,Offline downtime; 1 x Nutsert missing internal thread on DS Tray - reworked.,30-Oct-17,0.25,Electric Tray
+External,Other,Offline Downtime: 1 x Remote - buttons not working on remote.,31-Oct-17,0.25,Remote
+External,Other,Online Downtime; 2 x DS Modulators (210060) with faulty valves not shutting off - replaced.,31-Oct-17,0.5,Modulating Valve
+Other,Other,Offline Downtime; 72 x 101221 DL parts delivered to line instead of pemserter .,31-Oct-17,0.25,NA
+Internal,Not supplied on time,Online Downtime; Ran out of Red P/coated handles for DS chassis base.,31-Oct-17,0.5,NA
+Internal,NC Cell,Offline Downtime; 5 x ST900 trays not pemserted - reworked.,31-Oct-17,2,folding
+External,Other,Online downtime; 1 x DS chassis harness failed electrical testing - replaced.,1-Nov-17,0.5,Wiring
+External,Other,Online Downtime; E2 error on DL100 fire - reworked.,1-Nov-17,0.25,E2
+External,Other,Online Downtime; Issue setting HI/Low on Ds modulator - replaced,2-Nov-17,0.75,Modulating Valve
+Internal,NC Cell,Offline Downtime; 1 x 101811 DS Fan Plate - holes not cut correctly - replaced.,2-Nov-17,0.25,Firebox
+Internal,Not supplied on time,Online Downtime; 3 x Red P/coated handles for DS chassis base short.,2-Nov-17,0.25,NA
+Internal,NC Cell,Online downtime; 18 x DS reflective Panels marked or scratched.,2-Nov-17,0.5,others
+Internal,NC Cell,Offline Downtime; 1 x 102066 folded incorrectly,2-Nov-17,0.25,folding
+Internal,NC Cell,Offline downtime; 1 x 102059 folded incorrectly,2-Nov-17,0.25,folding
+Internal,NC Cell,Online downtime; DX Heat Exchanger Brackets turreted from wrong material.,2-Nov-17,1,material
+Internal,Assembly,Online downtime; DL1100 firebox - broke tap in pilot holder - reworked.,2-Nov-17,2,Tape
+External,Other,Offline Downtime;1 x Remote - buttons not working on remote.,6-Nov-17,0.25,remote
+External,Other,Offline downtime; 1 xEF5000  Parker Valve had faulty solenoid - replaced.,6-Nov-17,0.5,Valve
+Internal,NC Cell,Offline downtime; DL piot holders lots of slag from laser - reworked,6-Nov-17,2.5,laser
+Internal,NC Cell,Online downtime; DF700 firebox holes not lining up - rejected.,6-Nov-17,0.5,Firebox
+Internal,Manufacturing,Offline downtime; 2 x Studs on Ds Exhaust collector damaged req'd tapping out.,6-Nov-17,0.25,Firebox
+Internal,NC Cell,Offline Downtime; 102054 Parts folded incorrectly x 13.  Still useable just.,7-Nov-17,0.25,folding
+External,Other,Online Downtime; 1 x DS1400 Packing Lid bowed - rejected,7-Nov-17,0.25,NA
+External,Other,Offline Downtime; 1 x nutsert on DF700 firebox tray no thread - reworked,7-Nov-17,0.5,fIrebox
+Internal,NC Cell,Online downtime; DS1400 firebox missing pemert - reworked.,7-Nov-17,0.5,fIrebox
+Other,Other,Online downtime; TCO bracket on Df960 fires loosening off when tightening HX onto manifold - fix put in place.,8-Nov-17,0.5,TCO Bracket
+Internal,Assembly,Online Downtime; Blown fuse on PCB for DF700 - replaced,8-Nov-17,1.5,PCB
+Internal,Assembly,Offline downtime; Reworking DS Assessory packs missing jet.,8-Nov-17,0.75,Pilot
+External,Other,Online Downtime; DL850 loose wire in chassis harness.,10-Nov-17,0.25,Wiring
+Internal,Manufacturing,Offline Downtime; DS HX tube cut found next to end - reworked.,10-Nov-17,0.25,heat exchange/hx tube
+Internal,Manufacturing,Offline Downtime; 2 x DS1400 fireboxes out of square - reworked,14-Nov-17,2,NA
+Electrical,Electrical,Online downtime; DS Electrical tester breakdown - issue with new loom,14-Nov-17,2,Testing equitment /method
+Internal,NC Cell,Offline Downtime; DS electronic Tray missing pemsert,15-Nov-17,0.25,Electric Tray
+Internal,NC Cell,Offline downtime; 1 x DX1000 firebox missing pemsert,15-Nov-17,1,Firebox
+Electrical,Electrical,Online downtime; DS Electrical tester breakdown - issue with new loom,15-Nov-17,2,Testing equitment /method
+Internal,NC Cell,Offline downtime; DF electronic Tray missing pemsert - reworked,15-Nov-17,0.25,Electric Tray
+External,Wiring solutions,Online downtime; 420159 DL Chassis harness with loose terminal,16-Nov-17,0.25,Wiring
+External,Other,Online downtime; E2 error - DS Spark electrode not cut to correct length - no spark. Reworked.,17-Nov-17,0.5,Electrode
+External,Other,Online downtime; Faulty Fenwal - E7 - replaced,17-Nov-17,1.25,Electric Tray
+Internal,Not supplied on time,Online downtime; Ran out of painted DS Burners.,20-Nov-17,1.5,NA
+Internal,Not supplied on time,Online Downtime: Ran out of 101780 DS HX Straps,20-Nov-17,0.5,NA
+Internal,NC Cell,Offline Downtime; 1 x ST900 Tray folded inside out - replaced.,20-Nov-17,1,folding
+External,Not supplied on time,Online Downtime; Ran out of DF960 Star Rating cards for packing.,21-Nov-17,2,NA
+Internal,NC Cell,Offline downtime; 40 x DF Side Glass retainers folded incorrectly,21-Nov-17,0.25,folding
+External,Other,Online Downtime; DS1150 Modulator Flame effect issue,23-Nov-17,1,Modulating Valve
+Internal,NC Cell,Offline downtime; DF Pressure Switch missing nutsert - reworked.,23-Nov-17,0.25,Chassis
+External,Not supplied on time,Offline Downtime; Ran out of plastic covers for DF Trays,23-Nov-17,1,NA
+External,Supplied short,Online Downtime; DL1100  Top Glass Retainer - short one.,24-Nov-17,0.25,NA
+External,Other,Online Downtime; E7 error on Dl1100 - Faulty pressure switch - replaced,24-Nov-17,0.5,Pressure switch
+Internal,NC Cell,Online Downtime: 2 x DS1400 Bottom Glass Retainers not folded correctly,27-Nov-17,1.5,folding
+Internal,Engineering,Offline downtime: issues with DF960 Stone Guard hiiting the Glass at Burn off,27-Nov-17,0.25,NA
+External,Not supplied on time,Offline Downtime; Ran out of DS Pilot Gaskets.,28-Nov-17,3,NA
+Internal,Assembly,Offline Downtime; DS fires with wrong Serial n° on Tray and Remotes - reworking,4-Dec-17,0.5,NA
+Internal,NC Cell,Online Downtime; Ds Firebox with damaged pemsert - replaced.,4-Dec-17,0.75,Pemserts
+External,Other,Online downtime; DF960 - 2 x Kupo Valves failed at Burn Off - reworked.,4-Dec-17,2.75,Kupo
+Internal,NC Cell,Online downtime; 2 x EF Outer wraps and 1 x stone tray short,4-Dec-17,3,NA
+External,Other,Online downtime: DF PCB failed in Burn Off - replaced.,4-Dec-17,0.5,PCB
+External,Other,Online Downtime; DF Fenwal failed at Burn Off - replaced.,4-Dec-17,0.5,Electric Tray
+Internal,Assembly,Online downtime: Loose pressure hose connector on DF firebox - reworked.,4-Dec-17,0.25,Pressure switch
+External,Other,Offline Downtime: DF960 - 3 x Kupo Valves failed leak test not opening,5-Dec-17,1.5,Kupo
+Internal,Assembly,Online downtime: 1 x G9090 screw missing from DS Back Panel - reworked,5-Dec-17,0.25,Chassis
+External,Other,Online Downtime; Issues at Burn off on DF960 2 x fires suspected kupo valve issues - trays replaced.,5-Dec-17,2,Kupo
+External,Other,Offline Downtime: 4 x Kupo Valves not opening - replaced on trays.,6-Dec-17,1.5,Kupo
+External,Other,Offline Downtime; 3 x PCB failed in electronics E4 error - replaced,6-Dec-17,0.5,PCB
+Mechanical,Mechanical,Online downtime; Compressor breakdown - overheating,8-Dec-17,0.25,NA
+External,Other,Online downtime; Kupo Valve replaced - E4,8-Dec-17,1,Kupo
+External,Other,Online downtime; DF Tray tested by Kevin - Kupo issues,8-Dec-17,0.5,Kupo
+External,Other,Offline downtime: Issues with Kupo Valves leaking,8-Dec-17,2,Kupo
+Internal,NC Cell,Online downtime; 2 x DS1150 Firebox pemserts required tapping out.,11-Dec-17,0.25,Pemserts
+Internal,NC Cell,Offline downtime; 1 x DF700 RH Chassis side folded incorrectly - replaced.,11-Dec-17,0.25,folding
+Internal,NC Cell,Offline downtime; 2 x DF manifolds not pemmed - reworked,11-Dec-17,0.25,Pemserts
+Internal,NC Cell,Offline Downtime; Ran out of Df Tiedown brackets - ECN change req'd change of store location.,11-Dec-17,0.25,NA
+Mechanical,Mechanical,Online downtime; Compressor service affected Burn Off,11-Dec-17,0.25,NA
+Internal,NC Cell,Online downtime; 20 x DF960 Chassis side folded incorrectly - replaced.,12-Dec-17,0.5,folding
+Internal,NC Cell,Online downtime; 4 x Pemserts required tapping out in DS1150 firebox,12-Dec-17,0.25,Pemserts
+Internal,Manufacturing,Online Downtime; Issue with DF960 firebox top edge bowing down - reworking on line.,13-Dec-17,0.5,Firebox
+Electrical,Electrical,Online downtime;  1 x DF Electronic Tray extension failed tripping out Burn Off.,13-Dec-17,0.25,Electric Tray
+External,Other,Online Downtime; 1 x Leaking Flexi hose on DS1150 - replaced.,14-Dec-17,1,Gas Tray
+Internal,NC Cell,Online downtime; 3 x Pemserts req'd tapping out in DF960 fireboxes.,14-Dec-17,0.25,Pemserts
+Internal,Manufacturing,Offline downtime; 2 x Missing Rivets on Df Spigot Lid.,14-Dec-17,0.25,Chassis
+Internal,Engineering,Online Downtime; Straightening DF960 Firebox tops that were bowed,14-Dec-17,1,Firebox
+External,Other,Offline downtime; 1 x Leaking Kupo valve - replaced.,14-Dec-17,0.5,Kupo
+External,Other,"Online Downtime; DS1150 - E2 error, loose wire to modulator",15-Dec-17,0.5,Wiring
+Internal,NC Cell,Online Downtime; 1 x Pemsert missing in DS1150 Firebox - reworked,15-Dec-17,0.5,Firebox
+Planned,Trial,Online downtime; Discussing StoneGuard inprovement for DF960 fires.,15-Dec-17,0.5,NA
+Internal,Engineering,Online Downtime; Straightening DF960 Firebox tops that were bowed,15-Dec-17,1,Firebox
+Internal,Assembly,Online downtime: DX1000 Firebox support not sitting down in chassis base correctly - rewoked,11-Jan-18,0.5,Firebox
+Internal,NC Cell,Offline Downtime: 20 x DL Piot Holder Plates not pemmed - reworked.,11-Jan-18,0.25,Gas Tray
+Internal,Assembly,Online downtime; 3 x Alloy Plate on DF960 Chassis backs riveted on incorrectly - reworked.,11-Jan-18,0.25,Chassis
+External,Not supplied on time,Online Downtime; Ran out of 610633 Struts,11-Jan-18,0.5,NA
+External,Other,Online downtime: E3 error replaced Fenwal and PCB on DF960 fire,12-Jan-18,2.5,Electric Tray
+Internal,Manufacturing,Offline downtime: Scratches in the DF960 firebox paint,12-Jan-18,2,Firebox
+Internal,Manufacturing,Online Downtime: 3 x pemserts required tapping out - 2 Top Glass retainer & 1 x DF firebox for Burner Tray.,12-Jan-18,0.25,others
+Internal,NC Cell,Offline downtime: 2 x DS chassis sides folded incorrectly,15-Jan-18,0.25,folding
+External,Other,Online downtime: 1 x 410173 Pressure switch faulty - replaced,15-Jan-18,0.5,Pressure switch
+Internal,NC Cell,Offline downtime; 1 x DS Fan Base folded incorrectly,15-Jan-18,0.25,folding
+Internal,Manufacturing,Offline Downtime: Hole in weld in DF960 Firebox - reworked.,16-Jan-18,0.5,Welding
+External,Other,Online downtime; 2 x DS Modulators failed at burn off - replaced. Not adjusting.,16-Jan-18,1,Modulating Valve
+Mechanical,Mechanical,Online Downtime: Compressor over-heated stopped for 0.5hrs,16-Jan-18,0.5,NA
+Internal,NC Cell,Offline downtime; 20 x DF960 TCO brackets not pemmed - reworked.,22-Jan-18,0.25,TCO Bracket
+Internal,NC Cell,Online Downtime; 2 x mishits on DS1150 chassis bases - reworked.,22-Jan-18,0.5,chassis
+External,Other,Online downtime; 1 x PCB failed at Burn off in DL1100 - reworked.,22-Jan-18,0.5,PCB
+External,Other,Online Downtime; 1 x Kupo Valve E4  coil failed - replaced.,22-Jan-18,1.25,kupo
+Internal,NC Cell,Online downtime; DF700 Firebox side out of alignment - part moved in laser.,22-Jan-18,2,Firebox
+Internal,Manufacturing,Offline downtime; 1 x DF960 Firebox - hole in welds,23-Jan-18,0.5,Firebox
+External,Other,Offline downtime; Kupo valve failed in leak test,23-Jan-18,0.25,kupo
+Internal,Manufacturing,Online downtime; 2 x nutserts required tapping out in DF960 firebox for burner tray.,23-Jan-18,0.25,Firebox
+Internal,NC Cell,Online downtime; Mishit on DS1150 Chassis Base - reworked.,24-Jan-18,0.25,Chassis
+External,Other,Offline Downtime: 2 x Faulty PCB's E4 errors - failed in electronics,24-Jan-18,0.5,PCB
+Internal,NC Cell,Online Downtime; Issues with DL pilot plate holders require tapping out due to small rag off laser cut.,24-Jan-18,0.25,laser
+Internal,Assembly,Offline downtime; 1 x DF Burner Tray missing Test point insert.,24-Jan-18,0.25,Gas Tray
+Internal,NC Cell,Offline downtime: 18 x DS1400 Top glass retainers not pemmed.,25-Jan-18,0.25,others
+Internal,Assembly,Online downtime: DF700 with squashed valvw wire causing E4 error - reworked.,25-Jan-18,3,Wiring
+External,Other,Offline Downtime: 2 x PCB E4 error in electronics DS1150,7-Feb-18,0.25,PCB
+External,Other,Offline Downtime; 1 x Faulty Remote - DS,7-Feb-18,0.25,remote
+External,Other,Offline Downtime; 3 x DS Modulators not woprking correctly.,7-Feb-18,0.5,Modulating Valve
+Internal,NC Cell,Online Downtime; 1 x DS1150 lid not pemmed.,7-Feb-18,0.25,Chassis
+External,Other,Online Downtime; Faulty coil on Kupo Valve E4 error at Burnoff - replaced.,7-Feb-18,0.5,Kupo
+Unplanned,Other,Online Downtime; Issue with Kupo Valve harness hitting mounting bracket on DL1100 products - issue resolved.,7-Feb-18,1,Wiring
+Internal,NC Cell,Online Downtime; Due to Laser parts supply has hit the Ds line.  Waiting on infills and tray tops to be cut and folded etc.,8-Feb-18,4,laser
+External,Other,Offline Downtime; 1 x PCB E4 error in electronics - DS,8-Feb-18,0.25,PCB
+External,Other,Offline downtime; 1 x PCB E4 error in electronics - DS,9-Feb-18,0.25,PCB
+External,Other,Offline Downtime; 1 x DS Modulators failed leak test - replaced.,1-Feb-18,0.5,Modulating Valve
+Internal,Manufacturing,Offline Downtime; 1 x DS1400 firebox failed leak test - reworked,29-Jan-18,2,Firebox
+External,Other,Online Downtime; E3 error - DF700 mai loom issue with loose terminal to Fan - reworked.,29-Jan-18,2.25,Wiring
+External,Other,Offline downtime; 1 x faulty remote.,29-Jan-18,0.25,remote
+Internal,NC Cell,Online downtime; DF700 firebox - hole for bottom glass retainer out - reworked.,29-Jan-18,0.5,others
+Internal,NC Cell,Online downtime; 1 x Firebox pemsert in the wrong side in DS1400 firebox - reworked.,30-Jan-18,0.5,Firebox
+External,Other,Offline Downtime: DF700 kupo valve failed leak test - replaced.,30-Jan-18,0.5,Kupo
+External,Other,Offline Downtime: 100 x DF700 tray pipes 270151 10mm too short.,30-Jan-18,0.5,Gas Tray
+External,Other,Offline Downtime; 3 x PCB's rejected due to E4 issues in electronics DS product.,31-Jan-18,0.5,PCB
+External,Other,Offline Downtime; 3 x DS Modulators failed leak test - replaced.,31-Jan-18,1,Modulating Valve
+External,Other,Online downtime; E7 error on DF700 - pressure switch failed - replaced.,31-Jan-18,0.25,Pressure switch
+Internal,Assembly,Online downtime; 2 x nutserts in DF firebox damaged during training - replaced.,31-Jan-18,0.5,Firebox
+External,Other,Offline downtime; 2 x E4 errors on DS PCB's,12-Feb-18,0.25,PCB
+External,Other,Online downtime; E7 on DF700 pressure switch - replaced.,13-Feb-18,0.25,Pressure switch
+Internal,NC Cell,Offline Downtime: 2 x 101277 DF Fan Brackets folded incorrectly.,13-Feb-18,0.25,folding
+External,Other,Offline Downtime: Issue with quality of 410113 Spark electrodes.,13-Feb-18,0.25,Electrode
+External,Farra Sheetmetal,Offline downtime; No threadform in DL Electronic Tray - reworked.,14-Feb-18,0.25,Electric Tray
+Internal,NC Cell,Online Downtime: DL850 Firebox welds missing - failed leak test - reworked.,15-Feb-18,1,Welding
+Internal,Manufacturing,Offline Downtime: DL manifolds made instead of DF manifolds.,15-Feb-18,0.25,NA
+External,Other,Offlne Downtime: E4 error on PCB- DS,19-Feb-18,0.25,PCB
+Internal,Manufacturing,Online Downtime: DS Middle Burner- wrong burner in DS1400 bin.,19-Feb-18,0.75,Burnner
+External,Other,Offline Downtime: 2 x Kupo Valves failed leak test- DF,19-Feb-18,2,kupo
+Internal,Manufacturing,Online Downtime: DF90 Fireboxes issues with welds and grinding,19-Feb-18,1.5,Welding
+Internal,Assembly,Online Downtime: Pilot Electrode replaced in DF,19-Feb-18,0.25,Electrode
+External,Other,Online Downtime: EW5000 packing struts not to spec- waiting for delivery,19-Feb-18,7,NA
+External,Other,Offline Downtime: Remote not responding,19-Feb-18,0.25,remote
+Internal,Manufacturing,Online Downtime: DF960 Top Glass Retainer insert replaced,19-Feb-18,1,others
+External,Other,Offline Downtime: E4 Error on PCB- DS,20-Feb-18,0.25,PCB
+External,Other,Online Downtime: Kupo valve coil issue,20-Feb-18,7,kupo
+Internal,NC Cell,Offline Downtime: DS Pilot holder folded incorrectly x 18,22-Feb-18,2,folding
+Internal,NC Cell,Online Downtime: DS Nutset for fan No Good,26-Feb-18,1,Pemserts
+Internal,NC Cell,Online Downtime: DS Gib Trim not folded correctly,26-Feb-18,0.25,folding
+Internal,Assembly,Online Downtime: DS Fail Leak Test,26-Feb-18,0.25,Firebox
+External,Other,Offline Downtime: DS PCB E4,26-Feb-18,0.25,PCB
+External,Other,Offline Downtime: Faulty Remote,26-Feb-18,0.25,remote
+Internal,NC Cell,Online Downtime: DS Lid Folded Incorrectly,27-Feb-18,0.25,folding
+Internal,NC Cell,Online Downtime: DS Lid missing Pemserts,27-Feb-18,0.25,Chassis
+Internal,NC Cell,Online Downtime: DS Tray Missing Pemsert,27-Feb-18,0.25,Electric Tray
+External,Other,Online Downtime: DS Internet Cable would not fit Chassis.,28-Feb-18,0.25,WIring
+External,Other,Offline Downtime: DS Tray Failed leak test x 2,27-Feb-18,0.5,Gas Tray
+External,Other,Offline Downtime: DS Tray Failed leak test,28-Feb-18,0.25,Gas Tray
+Internal,NC Cell,"Online Downtime: DS Firebox pemsert repaired, fire reassembled.",28-Feb-18,3,Firebox
+Internal,NC Cell,"Online Downtime: DS Lid folded the wrong revision, Pemsert not lining up with back panel",1-Mar-18,0.5,folding
+Electrical,Electrical,Online Downtime: AF powerflue tester breakdown,1-Mar-18,0.5,Testing equitment /method
+Internal,NC Cell,"Offline Downtime: DF Electronic tray, issue with sheetmetal",1-Mar-18,0.25,Electric Tray
+Internal,NC Cell,Online Downtime: Pemsert faulty in DF Firebox- no thread,1-Mar-18,0.25,Pemserts
+Internal,Assembly,Online Downtime: 2 screws on HX for DF loose- failed leak test,1-Mar-18,1.5,heat exchange/hx tube
+Internal,Assembly,Online Downtime: Wrong jet for DF burner tray,2-Mar-18,0.5,Pilot
+Internal,Manufacturing,DF700 scratched lower baffle,2-Mar-18,1,others
+External,Other,DS PCB E4 issue,2-Mar-18,0.25,PCB
+External,Other,Faulty remote button- Electronics,2-Mar-18,0.25,remote
+Internal,NC Cell,Online Downtime: DS burner folded wrong,5-Mar-18,0.25,folding
+Internal,Assembly,Online Downtime: DS fan replaced,5-Mar-18,0.25,Fan
+External,Other,Online Downtime: DS faulty PCB,6-Mar-18,0.5,PCB
+Internal,NC Cell,Online Downtime: Freestanding Unit folded wrong,6-Mar-18,4.5,folding
+Internal,NC Cell,Online Downtime: DS Lid missing pemsert,6-Mar-18,0.5,Chassis
+External,Other,"Online Downtime: DS top glass retainer, pemserts damaged x 3",7-Mar-18,0.5,others
+External,Other,Offline Downtime: DS PCB- E4,7-Mar-18,0.25,PCB
+Internal,NC Cell,Online Donwtime: DS bottom glass retainer folded incorrectly,7-Mar-18,0.5,folding
+External,Other,Online Downtime: DS reflective panels marked,7-Mar-18,0.5,others
+Internal,Not supplied on time,Online Downtime: No bottom glass retainers available,8-Mar-18,0.25,NA
+Internal,NC Cell,"Online Downtime: DF960 Firebox holes drilled, alignment issue with bottom glass retainer",8-Mar-18,0.25,Firebox
+External,Other,Online Downtime: DS wire harness issue with pins,8-Mar-18,0.25,wiring
+Internal,NC Cell,Offline Downtime: DF electronic tray missing stud,8-Mar-18,0.25,Electric Tray
+Internal,Manufacturing,Online Downtime: DF 960 burner tray missing nutsert,8-Mar-18,0.25,Gas Tray
+External,Other,Online Downtime: DF960 Stone guard touching glass,8-Mar-18,0.5,NA
+External,Other,Online Downtime: DS reflective panels marked,8-Mar-18,0.5,others
+Internal,Not supplied on time,Online Downtime: DS red powder coated tabs stock ran out.,8-Mar-18,0.75,NA
+Internal,NC Cell,Online Downtime: DX1000 infill panels folded incorrectly,9-Mar-18,3,folding
+Internal,NC Cell,Offline Downtime: DS Fenwal Tray missing studs x 2,9-Mar-18,0.25,Electric Tray
+Internal,NC Cell,Online Downtime: DS1400 Painted Back panel folded wrong- failed leak test,9-Mar-18,0.75,folding
+Internal,Manufacturing,Online Downtime: DX burners without collars,12-Mar-18,1,Burnner
+Internal,NC Cell,Online Downtime: 101947- pemserts fell out,12-Mar-18,0.5,Pemserts
+Internal,NC Cell,Online Downtime: hatch folded wrong,12-Mar-18,0.25,folding
+Internal,NC Cell,Online Downtime:  DS top glass retainer pemsert spinning.,13-Mar-18,0.25,Pemserts
+Internal,Manufacturing,Online Downtime: cut in DS HX tubing,13-Mar-18,0.25,heat exchange/hx tube
+Internal,NC Cell,Online Downtime: Old part revision for powder coated top retainer,13-Mar-18,0.25,Painting/Powder coating
+External,Other,Offline Downtime: DS PCB issue - E4,13-Mar-18,0.25,PCB
+External,Other,Online Downtime: Flexi hose to DS pilot assembly failed leak test,13-Mar-18,0.25,Pilot
+Internal,NC Cell,Online Downtime: Pemsert wrong size for DS Firebox,13-Mar-18,1,Pemserts
+Internal,Manufacturing,Online Downtime: DS Infill panels not painted properly,13-Mar-18,0.25,Painting/Powder coating
+Internal,Assembly,Online Downtime: fan plate not riveted correct,13-Mar-18,0.25,Firebox
+External,Other,Online Downtime: streaks in DS reflective panels x 10,14-Mar-18,1,others
+Internal,NC Cell,Offline Downtime: DS tray missing stud,14-Mar-18,0.25,Electric Tray
+External,Other,Offline Downtime: DS Brass tee faulty,14-Mar-18,0.25,Gas Tray
+Internal,Manufacturing,Online Downtime: 10 DS Infill panels not painted fully,14-Mar-18,0.5,Painting/Powder coating
+Internal,Manufacturing,Online Downtime: DF700 Fireboxes not painted properly,14-Mar-18,1,Painting/Powder coating
+External,Other,Offline Downtime: DF PCB- E4,14-Mar-18,0.25,PCB
+Internal,NC Cell,Online Downtime: Pemsert missing on DF burner tray,14-Mar-18,0.25,Gas Tray
+Internal,Assembly,Online Downtime: wire not connected to burner tray,14-Mar-18,0.25,wiring
+Internal,Assembly,Online Downtime: leaking firebox missing rivets,14-Mar-18,0.5,Firebox
+External,Other,"Offline Downtime: DS pipes to burner leaking, 270159 & 270154",15-Mar-18,0.5,Gas Tray
+Internal,Engineering,Online downtime: DS chassis base not punched out properly,15-Mar-18,0.25,Chassis
+External,Other,Online Downtime: DS reflective panels marked/streaked,15-Mar-18,1,others
+Internal,NC Cell,Online Downtime: 2 x DS1150 Firebox missing pemserts,15-Mar-18,0.75,Firebox
+Internal,Assembly,"Online Downtime: DS E7 error, pressure switch hose not connected.",15-Mar-18,0.5,Pressure switch
+External,Not supplied on time,Offline Downtime: DS1650- no fenwals available,16-Mar-18,5,NA
+Internal,NC Cell,Online Downtime: DS1150 chassis not turreted properly,16-Mar-18,0.25,Chassis
+Internal,Engineering,Online Downtime: DS1650 Firebox holes had to be drilled out (holes too small),16-Mar-18,0.25,Firebox
+External,Other,Online Downtime: DF had a faulty kupo valve.,16-Mar-18,1.5,kupo
+External,Not supplied on time,Online Downtime: EF5000 parts not available,19-Mar-18,7,NA
+Internal,NC Cell,Online Downtime: DF TCO bracket folded the wrong way,19-Mar-18,1,folding
+External,Other,Offline Downtime: faulty remote,19-Mar-18,0.25,Remote
+External,Other,Offline Downtime: DS PCB- E4,20-Mar-18,0.25,PCB
+Internal,Assembly,Offline Downtime: Olive from flexi hose leaked (overtightened),20-Mar-18,0.25,Gas Tray
+Internal,NC Cell,Online Downtime: DS1650 Chassis base bent,20-Mar-18,1.5,Chassis
+Internal,NC Cell,Online Downtime: DS1650 fan boxes folded incorrectly,20-Mar-18,1,folding
+Internal,Engineering,Online Downtime: DS air intake to Firebox holes not right size,20-Mar-18,0.5,others
+Internal,Engineering,Online Downtime: DS top retainer brackets not lining up,20-Mar-18,0.5,others
+External,Other,Online Downtime: DS leak tester- changed O-ring,20-Mar-18,0.25,Firebox
+External,Other,Offline Downtime: DF PCB faulty- no power to flue fan,20-Mar-18,0.25,PCB
+External,Other,Online Downtime: DF960 faulty burner tray- Kupo valve issue,20-Mar-18,0.5,kupo
+External,Other,Online Downtime: No aeration collars,21-Mar-18,3,Burnner
+External,Other,Online Downtime: No burners for DS line,22-Mar-18,2.5,Burnner
+Internal,Manufacturing,Online Downtime: No red powder coated straps,22-Mar-18,1.5,Painting/Powder coating
+Internal,NC Cell,Online Downtime: Pemsert missing in DS1650 firebox base,27-Mar-18,0.25,Firebox
+External,Other,Offline Downtime: DF PCB- No RF,27-Mar-18,0.25,PCB
+External,Other,Offline Downtime: DS PCB- E4,28-Mar-18,0.25,PCB
+External,Other,Offline Downtime: blocked brass tee to burner- DS,28-Mar-18,0.25,Gas Tray
+Internal,Engineering,Online Downtime: old and new revision parts mixed up for DF960,28-Mar-18,2,NA
+Internal,Manufacturing,Online Downtime: Exhaust Collector pins straightened,28-Mar-18,0.5,Gas Tray
+External,Other,Online Downtime: 2 x remotes unresponsive,28-Mar-18,0.5,Remote
+Internal,NC Cell,Online Downtime: 2 x DS1650 firbox missing pemsert,29-Mar-18,0.5,Firebox
+External,Other,Offline Downtime: DS PCB- E4,29-Mar-18,0.25,PCB
+External,Other,Online Downtime: DF960 TCO replaced,4-Apr-18,1,TCO
+Internal,Manufacturing,Online Downtime: DF960 Lid bent,4-Apr-18,0.5,folding
+External,Other,"Online Downtime: Faulty Kupo valve, failed leak test",5-Apr-18,0.5,kupo
+External,Other,Online Downtime: 3 pemserts tapped out in DS Firebox,5-Apr-18,0.25,Pemserts
+Internal,NC Cell,Online Downtime: 4 DF pressure switch brackets with loose pemserts,5-Apr-18,0.5,Pemserts
+Internal,Manufacturing,Online Downtime: DS1400 middle burner replaced- low blue flame,5-Apr-18,0.5,Burnner
+External,Other,"Offline Downtime: Faulty pcb, transformer socket pins not in correct place.",5-Apr-18,0.5,PCB
+Internal,Assembly,Online Downtime: DF700 E7- low pressure hose not connected to pressure switch,5-Apr-18,0.5,Pressure switch
+Mechanical,Mechanical,Online Downtime: Packing lifter re-oiled,6-Apr-18,0.25,NA
+Internal,Assembly,Online Downtime: Gib trim scratched- DS,6-Apr-18,0.25,others
+Internal,Assembly,Online Downtime: DF700 burner tray had jets in the wrong way round.,6-Apr-18,0.5,Pilot
+Internal,NC Cell,Online Downtime: Incorrectly folded lid,6-Apr-18,0.25,folding
+Internal,NC Cell,Online Downtime: DS1650 glass retainers not pemserted,9-Apr-18,0.75,others
+External,Other,Online Downtime: E7- loose wire in electronic tray harness,9-Apr-18,1,wiring
+External,Other,Online Downtime: Modulating valve with faulty solenoids,9-Apr-18,1,Modulating Valve
+External,Other,Online Downtime: Flexi hose leaking,9-Apr-18,1,Gas Tray
+Internal,Assembly,Online Downtime: DF700 burner tray with jets the wrong way round,10-Apr-18,0.5,Pilot
+External,Other,Online Downtime: DF pressure switch issue.,10-Apr-18,8,Pressure switch
+Internal,NC Cell,Online Downtime: DS1400 bottom glass retainers not pemserted,11-Apr-18,0.5,others
+Internal,NC Cell,Online Downtime: FS folding issue,11-Apr-18,2,folding
+Internal,Assembly,Online Downtime: DF700 jets wrong way round,11-Apr-18,0.5,Pilot
+Internal,NC Cell,Online Downtime: FS730 folding issue,12-Apr-18,1,folding
+Internal,NC Cell,Online Downtime: DF700 missing rivet hole in the Right hand side of Chassis,13-Apr-18,0.5,chassis
+External,Other,Online Downtime: DS Flexi hose leaking,13-Apr-18,0.25,Gas Tray
+External,Other,"Offline Downtime: 4 x PCB issues 2 x no fan boost, 1 x E4, 1 x no boot loader",16-Apr-18,1,PCB
+Internal,Supplied short,Online Downtime: Short one DS Air Intake Box,16-Apr-18,4,others
+External,Other,Online Downtime: DL850 chassis base 5 bridge forms crushed,17-Apr-18,0.5,Chassis
+Internal,Manufacturing,Online Downtime: DL bowing burners,17-Apr-18,0.25,Burnner
+External,Other,Online Downtime: DS flexi hose failed leak test,17-Apr-18,0.5,Gas Tray
+External,Other,Online Downtime: DX flexi hose failed leak test,17-Apr-18,0.5,Gas Tray
+Internal,Manufacturing,Online Downtime: DX1000 burner tube needed to be ground down,17-Apr-18,0.25,Burnner
+External,Supplied short,Online Downtime: DL missing outer side shell baffle x 30,17-Apr-18,1.5,NA
+External,Other,Online Downtime: DX chassis wire harness not connecting to tray,17-Apr-18,1,wiring
+External,Other,"Online Downtime: Reset pilot on DL850, kept turning off",18-Apr-18,1,Pilot
+External,Other,Online Downtime: No gas (burn off),19-Apr-18,1,NA
+External,Not supplied on time,Online Downtime: No DS burners,19-Apr-18,0.5,NA
+External,Supplied short,Offline Downtime: no cradles in a remote box,19-Apr-18,1,NA
+External,Other,Online Downtime: DS wired pin loose in power cord,19-Apr-18,0.25,wiring
+Internal,Assembly,Online Downtime: Broken stud on DL firebox,19-Apr-18,0.75,Firebox
+External,Other,"Offline Downtime: faulty remote, no RF",19-Apr-18,0.25,Remote
+Internal,Manufacturing,Online Downtime: DS burners tight fitting,19-Apr-18,0.5,Burnner
+External,Other,Online Downtime: Leaking Flexi hose (replaced),20-Apr-18,1,Gas Tray
+Internal,NC Cell,Online Downtime: EF5000 part folded wrong 101370,23-Apr-18,1,folding
+External,Other,"Online Downtime: 2 flexi hoses replaced, DS line",23-Apr-18,1,Gas Tray
+Internal,NC Cell,"Online Downtime: 2 x102076 (1 x  pemsert missing, 1 x screws won't fit in)",24-Apr-18,0.25,others
+External,Other,Online Downtime: DS1150 with wrong pressure switch,24-Apr-18,0.5,Pressure switch
+Internal,Manufacturing,Online Downtime: DF960 glass retainers had scratched paint,26-Apr-18,0.5,others
+External,Other,Online Downtime: DS modulating valve brass fitting to pilot changed- leaking,26-Apr-18,0.5,Modulating Valve
+Internal,Assembly,"Online Downtime: DF960 leaked, tray needed to be tightened",27-Apr-18,0.75,Gas Tray
+Internal,Assembly,"Online Downtime: DF960, reset burner trasy wires, couldn't see LEDs",27-Apr-18,0.25,wiring
+Internal,Not supplied on time,Online Downtime: Ran out of DS powder coated red tabs,27-Apr-18,1,NA
+External,Other,Offline Downtime: DS PCB no bootloader,27-Apr-18,0.5,Programming
+Internal,Assembly,Online Downtime: DS powder coated glass trims scratched (by operator),30-Apr-18,0.25,Painting/Powder coating
+Internal,NC Cell,Online Downtime: DS Firebox Pemserts x 10 retapped,30-Apr-18,0.5,Pemserts
+Internal,Assembly,Online Downtime: Modulating Valve test points the wrong way around,30-Apr-18,1,Modulating Valve
+Mechanical,Mechanical,Offline Downtime: DS tester blown fuse,30-Apr-18,0.5,Testing equitment /method
+Internal,NC Cell,Online Downtime: DX pemserts missing on Exhaust manifold,30-Apr-18,0.25,chassis
+Internal,Manufacturing,"Online Downtime: Weld splash In DF700 firebox too hard to fix, Mike passed",1-May-18,0.25,Welding
+Internal,NC Cell,Online Downtime: DF700 pemserts retapped x 15,1-May-18,1.5,Pemserts
+External,Other,Online Downtime: DX gas flexi hose rplaced x 2,1-May-18,2,Gas Tray
+Mechanical,Mechanical,Online Downtime: Issues with leak testing DX.,1-May-18,1.5,Firebox
+Internal,Manufacturing,Online Downtime: DF700 weld splash inside Firebox,2-May-18,0.25,Welding
+Internal,Manufacturing,Online Downtime: 3 fireboxes needed top inside painted,2-May-18,0.25,Painting/Powder coating
+Internal,NC Cell,Online Downtime: hatches not fitting DF700,2-May-18,0.25,NA
+External,Other,Online Downtime: 1m long flexi hoses leaking,2-May-18,12,Testing equitment /method
+Internal,Assembly,"Online Downtime: DF960 had wire not connected on Kupo Valve, caused E2",3-May-18,1,wiring
+Internal,Manufacturing,Online Downtime: DF960 spigots on spigot plate on an angle making them harder to screw down,3-May-18,0.25,chassis
+Internal,Manufacturing,I DF960 inside of firebox not enough paint coverage.,4-May-18,0.25,Painting/Powder coating
+Internal,NC Cell,20 X DF Pilot Shroud issue around lasered thread form.,4-May-18,1,Pilot
+External,Other,Offline Downtime: Faulty PCB network connection pins bent,7-May-18,0.25,PCB
+Internal,NC Cell,Online Downtime: EF5000 part folded incorrectly x 5,7-May-18,0.25,folding
+Internal,Manufacturing,Online Downtime: DF700 Scratched fireboxes,8-May-18,0.5,Firebox
+Internal,Manufacturing,Online Downtime: DF700 Firebox with hole from weld,8-May-18,0.25,Welding
+Internal,NC Cell,Online Downtime: 101976 x 20 folded wrong.,8-May-18,0.25,folding
+Internal,Assembly,Online Downtime: DF960 x 2 missing brackets,9-May-18,0.25,others
+Internal,Engineering,Online Downtime: DF960 x 3 stone guards touching glass,9-May-18,0.5,stone guards
+Internal,Manufacturing,Online Downtime: 101870 bottom fan plate folded wrong,9-May-18,0.5,folding
+External,Other,Offline Downtime: Bromic flexi hose issue.,9-May-18,4,Bromic Hose/Bracket
+External,Other,Offline Downtime: Bromic Hose issue,10-May-18,2,Bromic Hose/Bracket
+Internal,Assembly,Online Downtime: E2- Pilot hood blocked by blue tack,10-May-18,2.5,Gas Tray
+External,Other,Offline Downtime: Bromic Hose Issue,11-May-18,6,Bromic Hose/Bracket
+External,Other,"Offline Downtime: 2 Kupo Valves, 1 with cracked casting, 1 leaking through casting",14-May-18,1,Kupo
+External,Other,Online Downtime: broken wire in DL firebox harness had to replace whole harness.,14-May-18,1.5,wiring
+Internal,NC Cell,Online Downtime: DS Side Panel bent wrong,14-May-18,0.25,folding
+External,Other,Offline Downtime: DS PCB E4 issue,14-May-18,0.25,PCB
+Internal,NC Cell,Offline Downtime: AF Retro Fit tray missing fenwal studs,15-May-18,0.25,Gas Tray
+Internal,Assembly,Online Downtime: DF960 TCO wire replaced due to being damaged at firebox workstation.,15-May-18,1,wiring
+External,Other,Offline Downtime: DS PCB no bootloader,16-May-18,0.25,Programming
+Internal,NC Cell,Online Downtime: 101669 EF bases folded wrong,16-May-18,0.5,folding
+Internal,Supplied short,Online Downtime: 1 x 101221 pressure switch bracket and 1 x 100985 short,16-May-18,0.25,NA
+External,Other,Offline Downtime: Cracked Kupo valve,15-May-18,1,Kupo
+External,Other,Offline Downtime: Kupo valve loose,17-May-18,0.25,Kupo
+Internal,Assembly,Online Downtime. Loose wire DF960,17-May-18,0.5,wiring
+Internal,Assembly,Online Downtime. Failed leak test. Loose screw on  lid.,17-May-18,0.25,Firebox
+Internal,Manufacturing,Poorly Welded Part,18-May-18,1,Welding
+Internal,Manufacturing,Weld Splatter,18-May-18,0.25,Welding
+Internal,Assembly,Wire moving,18-May-18,0.25,wiring
+Internal,NC Cell,Part bent incorrectly,18-May-18,1,folding
+Mechanical,Mechanical,Lifter stopped working,18-May-18,1,Testing equitment /method
+Internal,Manufacturing,Welding issues on the top of the DF960. Has been discussed with welders,18-May-18,0.5,Welding
+Internal,NC Cell,Online Downtime: DF fan brackets folded wrong,21-May-18,0.25,folding
+External,Other,Online Downtime: 420194 DF Chassis Harness missing connector x 60 (unfinished parts),18-May-18,0.5,wiring
+Internal,NC Cell,Offline Downtime: 101792 Fenwal Plate missing stud,21-May-18,0.25,Electric Tray
+Internal,NC Cell,"Online Downtime: EF parts folded wrong, 101369 x 1, 101671 x 2, 101672 x 2",21-May-18,1,folding
+Internal,NC Cell,Offline Downtime: DF tray missing studs,22-May-18,0.25,Electric Tray
+Internal,NC Cell,Online Downtime: Missing Pemsert on DS Lid,22-May-18,0.25,folding
+Internal,Manufacturing,Online Downtime: DF Firebox had welds sticking up x 4 had to be grinded,23-May-18,0.5,Firebox
+Internal,Manufacturing,Online Downtime: 2 x DF960 not fully painted,24-May-18,0.25,Painting/Powder coating
+Internal,Assembly,Online Downtime: DF Chassis Wiring and Burn off waiting 2 hours for products,24-May-18,1,wiring
+Internal,Manufacturing,Online Downtime: DF painted parts mixed up,24-May-18,0.25,others
+Internal,NC Cell,"Online Downtime: 1 x DF pressure switch bracket with loose pemsert, 1 x DF Pressure switch bracket with off set pemsert",24-May-18,0.25,Pemserts
+Human Error,Human Error,Offline Downtime: DS tester blew fuse due to operator error,24-May-18,0.5,Electric Tray
+External,Other,Offline Downtime: 270154 gas pipe leaking- tiny hole causing leak.,24-May-18,0.5,Gas Tray
+External,Other,Online Downtime: No DF power cords 420181,28-May-18,1.5,wiring
+Internal,Assembly,Offline Downtime: PCB blew due to incorrectly wired fenwal,28-May-18,0.25,Electric Tray
+External,Other,Offline Downtime: DS PCB- E7,28-May-18,0.25,PCB
+External,Other,Online Downtime: Remote failed to connect to remote after burn off,28-May-18,1,Remote
+Internal,Manufacturing,Online Downtime: Mixed up parts for DF line,28-May-18,0.25,others
+Internal,NC Cell,Online Downtime: EF base tray folded wrong,29-May-18,0.25,folding
+Internal,Manufacturing,Offline Downtime: 102101 DS control tray bottom folded wrong,29-May-18,0.25,folding
+Internal,NC Cell,Online Downtime: DF heat exchanger brackets folded wrong x 8,31-May-18,0.25,folding
+Internal,NC Cell,Online Downtime: DF700 fireboxes bowed,31-May-18,0.5,Firebox
+Internal,Manufacturing,Offline Downtime: DF electronic trays bent,31-May-18,0.25,Electric Tray
+External,Not supplied on time,Online Downtime: 270099 out of stock,31-May-18,1,NA
+Internal,Assembly,"Online Downtime: DF700 test point screw missing, leaking when started burn off",1-Jun-18,1,Gas Tray
+Internal,Assembly,Online Downtime: DS brackets forgotten on back panel. Caught issue at packing,1-Jun-18,1,chassis
+Internal,NC Cell,Online Downtime: 101885 pressure switch bracket folded wrong x 12,5-Jun-18,0.25,folding
+Internal,NC Cell,Online Downtime: 102337 fan unit bottom plate folded wrong x 6,5-Jun-18,0.5,folding
+Internal,Manufacturing,Online Downtime: DF air intake bracket warped,5-Jun-18,0.5,others
+Internal,Supplied short,Online Downtime: Middle burner short for DS line,5-Jun-18,0.25,NA
+External,Other,Online Downtime: Cable patch 420194 not fitting into RH chassi corners.,5-Jun-18,0.5,wiring
+Internal,Assembly,Online Downtime: 2 x Heat Exchange sitting high on DF product,5-Jun-18,0.25,Heat Exchange/HX tube
+Internal,NC Cell,"Offline Downtime: 4 x DF electronic tray bent wrong, Main Wire Loom from tray not fitting into port.",5-Jun-18,0.25,Electric Tray
+Internal,Engineering,"Online Downtime: DF700 & 960 Chassis have 3mm rivet holes instead of 4mm rivet hole, Diego to change, drilling out in the mean time.",6-Jun-18,0.5,NA
+External,Other,Online Downtime: DF700 E3 in burnoff mode,6-Jun-18,0.25,Normal
+External,Supplied short,Online Downtime: DF960 back panels missing,6-Jun-18,4,NA
+Internal,Assembly,"Online Downtime: Wire for Kupo valve not on, E2 in burnoff",6-Jun-18,1,wiring
+Internal,NC Cell,Online Downtime: DF700 thread forms in back panel hard to put screws in.,6-Jun-18,0.5,chassis
+Internal,NC Cell,Offline Downtime: 102101 bottom tray inside out,6-Jun-18,0.25,Electric Tray
+Internal,Not supplied on time,Online Downtime: DF line waiting on parts,7-Jun-18,10,NA
+External,Farra Sheetmetal,Online Downtime: Bracket holes missing in DF960 back panels,7-Jun-18,0.5,chassis
+Internal,NC Cell,Online Downtime: tapping out 8 pemserts in DS1150 firebox,7-Jun-18,0.25,Pemserts
+External,Farra Sheetmetal,Online Downtime: Issues with DF960 back panels with putting in screws,7-Jun-18,0.75,Chassis
+Internal,Assembly,Online Downtime: screw in the fan DF960 E3,7-Jun-18,0.25,E3
+Internal,Manufacturing,Online Downtime: Fan Plate Bracket wrong way round,7-Jun-18,0.25,Firebox
+External,Farra Sheetmetal,Online Downtime: 101919 Bracket Tri-tube bracket hole too small for G9090 pozi screw,8-Jun-18,0.25,others
+Internal,Assembly,"Online Downtime: DF E4 in burn off, slow fan",8-Jun-18,0.5,Fan
+External,Farra Sheetmetal,"Online Downtime: DF thread forms stripping, back panels need to be drilled out",8-Jun-18,1,chassis
+External,Other,Online Downtime: DS firebox 5 nutserts tapped out,8-Jun-18,0.25,Pemserts
+Internal,NC Cell,Online Downtime: DL side 100985 folded wrong x 5,8-Jun-18,0.5,folding
+Internal,Not supplied on time,Online Downtime: No DF back Panels on the line,11-Jun-18,1.3,NA
+Mechanical,Mechanical,Online Downtime: Broken wire on PAT tester,11-Jun-18,0.3,Testing equitment /method
+Internal,Assembly,"Online Downtime: E3 DF line, fan had tie in the way.",11-Jun-18,0.25,Fan
+External,Farra Sheetmetal,"Online Downtime: DL1100 outer back panels missing holes, 4 written off",11-Jun-18,0.5,chassis
+Internal,NC Cell,Online Downtime: DF700 base not folded correctly,11-Jun-18,0.25,folding
+Unplanned,Other,Online Downtime: Testing on DF700 burners hadn't been completed,12-Jun-18,1.25,NA
+Internal,Assembly,"Online Downtime: DF700 burner tray had gas pipes put on the wrong way, reworked",12-Jun-18,1,Gas Tray
+External,Farra Sheetmetal,Online Downtime: Thread forms on back panels for DF product still causing issues,12-Jun-18,0.5,chassis
+External,Other,Online Downtime: Ran out of mode packaging,12-Jun-18,0.5,NA
+Mechanical,Mechanical,"Online Downtime: leak in gas hose, had to be replaced.",12-Jun-18,0.25,Testing equitment /method
+Internal,Assembly,Online Downtime: Jets in the Wrong way DF700 burner tray,13-Jun-18,1,Pilot
+Internal,NC Cell,Online Downtime: Stone Guard touching glass,13-Jun-18,0.25,stone guards
+Internal,Engineering,"Online Downtim: DF700 Left hand sie chassis holes smaller than right hand side, hard to get rivets in.",13-Jun-18,0.5,chassis
+Internal,Assembly,Online Downtime: 270122 missing on DF manifold,13-Jun-18,0.25,chassis
+Internal,Supplied short,Online Downtime: short 4 lower glass baffles,13-Jun-18,0.25,NA
+External,Other,"Online downtime: testpoint grub screws falling out of trays, not tightening",14-Jun-18,1,Gas Tray
+Other,Other,Online Downtime: Gas leaking from DF fireplaces,14-Jun-18,2,Firebox
+External,Farra Sheetmetal,Online Downtime: drilling out thred form holes on exhaust manifolds and back panels,14-Jun-18,2,chassis
+Internal,Assembly,Offline Downtime: DF PCB x 2 blown due to terminals not connected to tray properly,14-Jun-18,0.25,wiring
+External,Other,"Offline Downtime: 2 x Unresponsive remotes, couldn't set to debug mode.",14-Jun-18,0.25,Remote
+External,Farra Sheetmetal,Online Downtime: ongoing threadform issues,14-Jun-18,0.5,NA
+Internal,NC Cell,Online Downtime: 100946 x 17 short,15-Jun-18,0.5,NA
+Internal,Assembly,Online Downtime: Leaking DF960 around glass,15-Jun-18,1.5,Firebox
+External,Other,Online Downtime: wrong jet in DF960,15-Jun-18,0.25,Pilot
+External,Other,"Online Downtime: E2 for DS in burn off, not resolved",18-Jun-18,0.5,E2
+External,Other,Offline Downtime: 2 x PCB RF issues,19-Jun-18,0.5,PCB
+External,Farra Sheetmetal,Online Downtime: Drilling Manifolds for DF product,19-Jun-18,0.25,chassis
+External,Other,Online Downtime: E2- modulating valve not machined correctly,19-Jun-18,1,Modulating Valve
+External,Other,"Offline Downtime: PCB fault, fuse on tester and tray blew",19-Jun-18,1,PCB
+External,Other,Online Downtime: Leaking flexi hose,19-Jun-18,0.5,Gas Tray
+External,Supplied short,Online Downtime: 2 x 102082 short DS,20-Jun-18,0.5,NA
+External,Other,Online Downtime: Flam effect issue DS,20-Jun-18,1,NA
+External,Farra Sheetmetal,Online Downtime: Drilling Manifolds DF,20-Jun-18,0.25,Gas Tray
+External,Other,Offline Downtime: PCB RF issue,20-Jun-18,0.25,PCB
+Internal,Supplied short,Online Downtime: DS Chassis Lid Short x 2,21-Jun-18,0.5,NA
+Internal,Engineering,"Online Downtime: Part put in wrong, not symmetrical, hard to tell which way it goes in",21-Jun-18,0.75,NA
+Internal,NC Cell,Online Downtime: Incorrectly folded fan boxes x 4,21-Jun-18,2,folding
+Internal,NC Cell,Online Downtime: Missing parts,21-Jun-18,0.25,NA
+External,Farra Sheetmetal,Offline Downtime: tight thread forms on DS trays,21-Jun-18,0.25,Electric Tray
+External,Farra Sheetmetal,Offline Downtime: 1 x thread form not cut out properly in DS Tray Base,21-Jun-18,0.25,Electric Tray
+External,Other,Online Downtime: Flexi hose leaking,22-Jun-18,0.5,Gas Tray
+Internal,NC Cell,Online Downtime: KS1150 RH missing parts 102012 and 102015,22-Jun-18,0.25,NA
+Internal,Manufacturing,Online Downtime: Waiting on Welding,22-Jun-18,4,wait
+Internal,NC Cell,Online Downtime: parts on wrong trolley,22-Jun-18,0.25,arrangement
+Internal,Manufacturing,Online Downtime: Waiting on Painting,22-Jun-18,0.75,wait
+External,Other,Offline Downtime: PCB no power,25-Jun-18,0.25,PCB
+Internal,NC Cell,Online Downtime: DX RH Side Panel not folded properly,25-Jun-18,0.25,NA
+External,Not supplied on time,Online Downtime: short 2 x Back Panels 101100,25-Jun-18,1.5,NA
+External,Other,Offline Downtime: Retapping pemsert in DX trays,25-Jun-18,0.25,Pemserts
+External,Other,"Online Downtime: Leaking flexi hose, retightened",25-Jun-18,0.25,Gas Tray
+External,Other,"Online Downtime: Modulator woldn't drop below 0.40, replaced",25-Jun-18,0.5,Modulating Valve
+Internal,NC Cell,Online Downtime: 2 side  panels folded wrong,26-Jun-18,1,folding
+Internal,Manufacturing,Online Downtime: 4 Burners needed to be grounded down,26-Jun-18,0.5,Burnner
+External,Other,Online Downtime: 100390 Pilot Covers for DF960 needed to be drilled out,26-Jun-18,0.25,Pilot
+Internal,Assembly,Online Downtime: Wrong serial numbers on electronic trays,26-Jun-18,1,serial numbers
+External,Farra Sheetmetal,Online Downtime: Drilling out back panels x 12,26-Jun-18,0.25,chassis
+Internal,Manufacturing,Online Downtime: DF960 welds sticking out.,26-Jun-18,0.25,Welding
+External,Farra Sheetmetal,"Online Downtime: DF960 Firebox retainer leftside rivet holes small, 4 drilled out",26-Jun-18,0.25,others
+Internal,Not supplied on time,MODE: waiting on heat exchange tubes,26-Jun-18,0.75,NA
+Internal,NC Cell,MODE: Missing Pemserts,26-Jun-18,0.25,NA
+Internal,NC Cell,MODE: Wrong chassis ends,26-Jun-18,2,chassis
+External,Farra Sheetmetal,Online Downtime: DF960 Pilot shrouds and back panels needed drilling,27-Jun-18,0.5,chassis
+External,Other,Online Downtime: failed flex hose (leaking),27-Jun-18,0.25,Gas Tray
+Internal,Manufacturing,MODE: RH corner waiting to be painted,27-Jun-18,4,wait
+External,Other,MODE: glass issues,27-Jun-18,2,glass
+Internal,Engineering,MODE: jib trim testing,27-Jun-18,1,Testing equitment /method
+External,Farra Sheetmetal,Online Downtime: Drilling out back panels and pilot shrouds (DF),28-Jun-18,0.5,chassis
+External,Other,Online Downtime: flexi hose failed leak test (DS),28-Jun-18,0.5,Gas Tray
+Internal,Manufacturing,Online Downtime: burners to be ground down (DS),28-Jun-18,0.25,Burnner
+Internal,NC Cell,MODE: missing pemsert,28-Jun-18,2,Pemserts
+Internal,Engineering,MODE: notches cut out in Chassis end panel,28-Jun-18,0.25,chassis
+Internal,NC Cell,MODE: wrong revision part,28-Jun-18,1,arrangement
+Internal,NC Cell,Online Downtime: EF5000 chassis base folded incorrectly,29-Jun-18,0.25,folding
+Internal,NC Cell,MODE: Wrong revision supplied 102526,29-Jun-18,3,arrangement
+Internal,Engineering,MODE: uncertainty on a common part,29-Jun-18,0.25,NA
+Internal,NC Cell,MODE: common part not supplied (Infill Panel),29-Jun-18,1,NA
+External,Farra Sheetmetal,"Online Downtime: DF700 drilling out manifolds, holes in base that attach to back panel and pilot shrouds (16)",2-Jul-18,0.5,chassis
+External,Other,Online Downtime: Faulty wire harness (DF)  wires were short,2-Jul-18,0.25,wiring
+External,Other,Offline Downtime: faulty PCB- missing LED,2-Jul-18,0.5,PCB
+External,Other,Online Downtime: no flame effect- modulator issue,2-Jul-18,0.5,Modulating Valve
+Internal,Manufacturing,MODE: waiting for welding and painting,2-Jul-18,5,wait
+Internal,NC Cell,Online Downtime: short 1 x 102079,2-Jul-18,0.25,wait
+Internal,NC Cell,Online Downtime: 3 x 102057 and 1 x 102058 holes not centred,3-Jul-18,1,others
+Internal,Manufacturing,Online Downtime: burners scratched,3-Jul-18,0.25,Burnner
+Internal,Manufacturing,Online Downtime: infill panels not sitting properly in firebox,3-Jul-18,1,firebox
+Internal,NC Cell,Online Downtime: 102060 folded with taper,3-Jul-18,0.25,NA
+External,Other,Offline Downtime: 270145 flexi hose x 5 rejected,3-Jul-18,0.5,Gas Tray
+Internal,Manufacturing,MODE: waiting for painting,3-Jul-18,1.5,wait
+External,Other,MODE: 420193 fan with low insulation resistance,3-Jul-18,3.75,Fan
+External,Other,Online Downtime: DS1400 glass rejected- marked,3-Jul-18,0.5,glass
+External,Other,Online Downtime: modulator replaced,3-Jul-18,0.5,Modulating Valve
+External,Farra Sheetmetal,"Online Downtime: drilling out pilot shrouds, manifolds, bases and infill grill",3-Jul-18,1,firebox
+Internal,Assembly,"Online Downtime: E3 overheating, fixed fan",3-Jul-18,0.5,Fan
+External,Other,Offline Downtime: PCB broken part on it,3-Jul-18,0.25,PCB
+External,Other,Online Downtime: fan mount plate DF700 x 1 holes missing,3-Jul-18,0.25,firebox
+Internal,NC Cell,Online Downtime: holes in wrong place 101087 jib bracket,3-Jul-18,0.25,firebox
+Internal,NC Cell,"Online Downtime: Bowing in DF700 burner trays, holes too small x 4",3-Jul-18,0.25,Gas Tray
+Internal,NC Cell,Online Downtime: Manifold LH bracket folded wrong x 2 DF960,3-Jul-18,0.25,folding
+External,Farra Sheetmetal,Online Downtime: Drilling DF960 back panels and shrouds.,4-Jul-18,1,chassis
+External,Farra Sheetmetal,Online Downtime: putting screw through pilot shrouds before using,4-Jul-18,0.5,Pilot
+Internal,NC Cell,Online Downtime: 101920 folded with taper,4-Jul-18,0.25,folding
+Internal,NC Cell,Online Downtime: 102068 folded wrong,4-Jul-18,0.25,folding
+External,Farra Sheetmetal,Online Downtime: drilled out thread form for 101919,4-Jul-18,0.5,others
+External,Other,Offline Downtime: 12 x 270145 flexi hose failed,4-Jul-18,1.25,Gas Tray
+Internal,Engineering,MODE: Infill Panel not fitting well.,4-Jul-18,1.5,firebox
+Internal,NC Cell,MODE Fan box part not folded,4-Jul-18,0.25,firebox
+External,Other,Online Downtime: DF Wire harness hard to connect to Kupo valve plate,5-Jul-18,0.25,wiring
+Electrical,Electrical,"Online Downtime: Continuity tester broke down, changed to a spare harness",5-Jul-18,0.25,wiring
+External,Other,"Online Downtime: Shut down during function test, low flame had pressure setting changed 0.3kpa",5-Jul-18,0.5,NA
+Internal,NC Cell,Online Downtime: Chassis Lid folded wrong 102060,6-Jul-18,0.25,folding
+Internal,NC Cell,Online Downtime: 102082 x 1 short,6-Jul-18,0.25,NA
+External,Other,Offline Downtime: 2 x 270145 leaking,6-Jul-18,0.25,Gas Tray
+Internal,NC Cell,Online Downtime: 102000 x 1 folded wrong,6-Jul-18,0.25,folding
+Internal,NC Cell,Online Downtime: Fan Mount Plate folded wrong x 1,6-Jul-18,0.25,folding
+External,Farra Sheetmetal,Online Downtime: drilling base/back panels,9-Jul-18,0.5,chassis
+Internal,Assembly,"Online Downtime: heat exchange tubing touching back panel, needed to be tied up",9-Jul-18,0.5,Heat Exchange/HX tube
+External,Farra Sheetmetal,"Online Downtime: pilot shrouds, couldn't fit screws into infill holes.",9-Jul-18,0.25,firebox
+External,Other,Offline Downtime: 2 x 270145 leaking,10-Jul-18,0.25,Gas Tray
+External,Other,Online Downtime: burner with metal flake inhibiting air flow in burner tube,10-Jul-18,0.25,Burnner
+Internal,NC Cell,Online Downtime: 13 x pilot shrouds rejected due to threadform issue,10-Jul-18,0.5,Gas Tray
+External,Farra Sheetmetal,Online Downtime: drilling back panel and base panels,10-Jul-18,0.5,chassis
+Internal,Assembly,Online Downtime: 1 x PCB terminal not plugged in,10-Jul-18,0.25,wiring
+Internal,NC Cell,Online Downtime: 1 x pemsert missing from back of DF700 firebox,10-Jul-18,0.25,firebox
+Internal,NC Cell,Online Downtime: Missing stud on ST900 electronic tray 101403,10-Jul-18,0.25,Electric Tray
+Internal,Engineering,"Online Downtime: Infill panel & burner issue on DS line, not fitting properly",11-Jul-18,1,firebox
+Internal,Engineering,"Online Downtime: condensation panel 102523 tight fitting, hitting on welds",11-Jul-18,0.5,Welding
+Internal,Manufacturing,Online Downtime: exhaust manifolds bowing,11-Jul-18,0.5,chassis
